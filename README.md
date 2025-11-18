@@ -1,6 +1,6 @@
 # STRUCT_AMB_IND
 
-This dataset contains **the first Indonesian speech dataset for structurally/ syntactically ambiguous utterances and each of two disambiguation texts**
+This dataset contains **the first Indonesian speech dataset for structurally/ syntactically ambiguous utterances and each of two disambiguation texts + the English translations**
 
 The structurally ambiguous sentences were adapted from Types 4,5,6, and 10 of Types Of Syntactic Ambiguity in English by [[Taha et al., 1983](https://doi.org/10.1515/iral.1983.21.4.251)]. For each chosen type, 100 structurally ambiguous sentences in Indonesian were made by crowdsourcing. Each Indonesian ambiguous sentence has two possible interpretations, resulting in two meaning interpretation text outputs for each ambiguous sentence. Each meaning interpretation text is made up of two sentences. All of the sentences have been checked by linguists.
 
