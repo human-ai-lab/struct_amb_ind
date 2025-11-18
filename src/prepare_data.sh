@@ -1,0 +1,1 @@
+python src/prepare_data.py --task asr asr_tag td sd dmt dst mt

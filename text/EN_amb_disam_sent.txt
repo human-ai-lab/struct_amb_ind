@@ -1,0 +1,800 @@
+EN_Type04_00011|the snow on the rock that is shaped like a ball is starting to melt.|the snow on the rock is starting to melt. the snow is shaped like a ball. 
+EN_Type04_00012|the snow on the rock that is shaped like a ball is starting to melt.|the snow on the rock is starting to melt. the rock is shaped like a ball. 
+EN_Type04_00021|the box on the table that is painted red belongs to sister.|the box on the table belongs to sister. the box is painted red. 
+EN_Type04_00022|the box on the table that is painted red belongs to sister.|the box on the table belongs to sister. the table is painted red. 
+EN_Type04_00031|the book on the chair i just bought is very good.|the book on the chair is very good. i just bought the book. 
+EN_Type04_00032|the book on the chair i just bought is very good.|the book on the chair is very good. i just bought the chair. 
+EN_Type04_00041|the paper in the folder that is blue is very important.|the paper in the folder is very important. the paper is blue. 
+EN_Type04_00042|the paper in the folder that is blue is very important.|the paper in the folder is very important. the folder is blue. 
+EN_Type04_00051|the sand in the shell that i picked up on the beach was thrown away by my sister.|the sand in the shell was thrown away by my sister. the sand was picked up on the beach by me. 
+EN_Type04_00052|the sand in the shell that i picked up on the beach was thrown away by my sister.|the sand in the shell was thrown away by my sister. the shell was picked up on the beach by me. 
+EN_Type04_00061|the pants on the furry mattresses which are blue.|the mattresses are furry. the pants are blue. 
+EN_Type04_00062|the pants on the furry mattresses which are blue.|the mattresses are furry. the mattresses are blue. 
+EN_Type04_00071|the fish on the leaf that is grilled was very good.|the fish on the leaf was very good. the fish is grilled. 
+EN_Type04_00072|the fish on the leaf that is grilled was very good.|the fish on the leaf was very good. the leaf is grilled. 
+EN_Type04_00081|the vegetables inside the basket tied with the rope are new.|the vegetables inside the basket are new. the vegetables are tied with the rope. 
+EN_Type04_00082|the vegetables inside the basket tied with the rope are new.|the vegetables inside the basket are new. the basket is tied with the rope. 
+EN_Type04_00091|an umbrella in a bag that is green.|an umbrella in a bag that is green. the umbrella is green. 
+EN_Type04_00092|an umbrella in a bag that is green.|an umbrella in a bag that is green. the bag is green. 
+EN_Type04_00101|shoes in a box that is dusty.|shoes in a box. the shoes is dusty. 
+EN_Type04_00102|shoes in a box that is dusty.|shoes in a box. the box is dusty. 
+EN_Type04_00111|the television on the shelf that dad fixed yesterday.|the television on the shelf. the television was fixed by dad yesterday. 
+EN_Type04_00112|the television on the shelf that dad fixed yesterday.|the television on the shelf. the shelf was fixed by dad yesterday. 
+EN_Type04_00121|tie in a box that is red.|tie in a box. the tie is red. 
+EN_Type04_00122|tie in a box that is red.|tie in a box. the box is red. 
+EN_Type04_00131|the pot on the edge of the window that sister broke.|the pot on the edge of the window. the pot was broken by sister. 
+EN_Type04_00132|the pot on the edge of the window that sister broke.|the pot on the edge of the window. the window was broken by sister. 
+EN_Type04_00141|get the potatoes near the carrots that have been sliced.|get the potatoes near the carrots. the potatoes have been sliced. 
+EN_Type04_00142|get the potatoes near the carrots that have been sliced.|get the potatoes near the carrots. the carrots have been sliced. 
+EN_Type04_00151|candy in a bag that sister hid.|candy in a bag. the candy was hidden by sister. 
+EN_Type04_00152|candy in a bag that sister hid.|candy in a bag. the bag was hidden by sister. 
+EN_Type04_00161|please get me the glass next to the plate that sister uses.|please get me the glass next to the plate. the glass is used by sister. 
+EN_Type04_00162|please get me the glass next to the plate that sister uses.|please get me the glass next to the plate. the plate is used by sister. 
+EN_Type04_00171|the book in the bag that is thin is all wet.|the book in the bag is all wet. the book is thin. 
+EN_Type04_00172|the book in the bag that is thin is all wet.|the book in the bag is all wet. the bag is thin. 
+EN_Type04_00181|the egg in the bowl that is cracked is cooked by mom.|the egg in the bowl is cooked by mom. the egg is cracked. 
+EN_Type04_00182|the egg in the bowl that is cracked is cooked by mom.|the egg in the bowl is cooked by mom. the bowl is cracked. 
+EN_Type04_00191|the bird in the cage that is beautiful is from papua.|the bird in the cage is from papua. the bird is beautiful. 
+EN_Type04_00192|the bird in the cage that is beautiful is from papua.|the bird in the cage is from papua. the cage is beautiful. 
+EN_Type04_00201|the suitcase on the table that is heavy is brought to me tomorrow.|the suitcase on the table is brought to me tomorrow. the suitcase is heavy. 
+EN_Type04_00202|the suitcase on the table that is heavy is brought to me tomorrow.|the suitcase on the table is brought to me tomorrow. the table is heavy. 
+EN_Type04_00211|the fish in the pond that stinks weighed five kilos.|the fish in the pond weighs five kilos. the fish stinks. 
+EN_Type04_00212|the fish in the pond that stinks weighed five kilos.|the fish in the pond weighs five kilos. the pond stinks. 
+EN_Type04_00221|the tiger next to the deer that is skinny looked at us.|the tiger next to the deer looked at us. the tiger is skinny. 
+EN_Type04_00222|the tiger next to the deer that is skinny looked at us.|the tiger next to the deer looked at us. the deer is skinny. 
+EN_Type04_00231|the motorcycle behind the car that is expensive is red.|the motorcycle in the back of the car is red. the motorcycle is expensive. 
+EN_Type04_00232|the motorcycle behind the car that is expensive is red.|the motorcycle in the back of the car is red. the car is expensive. 
+EN_Type04_00241|the doll on the mattress that is soft i bought last wednesday.|the doll on the bed i bought last wednesday. the doll is soft. 
+EN_Type04_00242|the doll on the mattress that is soft i bought last wednesday.|the doll on the bed i bought last wednesday. the mattress is soft. 
+EN_Type04_00251|the money in that wallet that is fake i got on the way.|the money in that wallet i got on the way. the money is fake. 
+EN_Type04_00252|the money in that wallet that is fake i got on the way.|the money in that wallet i got on the way. the wallet is fake. 
+EN_Type04_00261|the chicken on the television that is noisy is grandpa's pet.|the chicken on the television is grandpa's pet. the chicken is noisy. 
+EN_Type04_00262|the chicken on the television that is noisy is grandpa's pet.|the chicken on the television is grandpa's pet. the television is noisy. 
+EN_Type04_00271|the shoe under the table that is dirty is worn by sister.|the shoe under the table is worn by sister. the shoe is dirty. 
+EN_Type04_00272|the shoe under the table that is dirty is worn by sister.|the shoe under the table is worn by sister. the table is dirty. 
+EN_Type04_00281|the pudding next to the fruit that is sour is from grandma.|the pudding next to the fruit is from grandma. the pudding is sour. 
+EN_Type04_00282|the pudding next to the fruit that is sour is from grandma.|the pudding next to the fruit is from grandma. the fruit is sour. 
+EN_Type04_00291|the suitcase on top of the closet that is large.|the suitcase on top of the closet. the suitcase is large. 
+EN_Type04_00292|the suitcase on top of the closet that is large.|the suitcase on top of the closet. the closet is large. 
+EN_Type04_00301|the inn in side of the lake that is clean.|the inn in side of the lake. the inn is clean. 
+EN_Type04_00302|the inn in side of the lake that is clean.|the inn in side of the lake. the lake is clean. 
+EN_Type04_00311|pillow on a mattress that is soft.|pillow on a mattress. the pillow is soft. 
+EN_Type04_00312|pillow on a mattress that is soft.|pillow on a mattress. the mattress is soft. 
+EN_Type04_00321|the cloth in the bucket that is wet is washed by the mother.|the cloth in the bucket is washed by the mother. the cloth is wet. 
+EN_Type04_00322|the cloth in the bucket that is wet is washed by the mother.|the cloth in the bucket is washed by the mother. the bucket is wet. 
+EN_Type04_00331|the river in the village that is hidden is very beautiful.|the river in the village is beautiful. the river is hidden. 
+EN_Type04_00332|the river in the village that is hidden is very beautiful.|the river in the village is beautiful. the village is hidden. 
+EN_Type04_00341|all the jelly in the drink that is sweet is gone.|all the jelly in the drink is gone. the jelly is sweet. 
+EN_Type04_00342|all the jelly in the drink that is sweet is gone.|all the jelly in the drink is gone. the drink is sweet. 
+EN_Type04_00351|the car in the garage that is old has been sold successfully.|the car in the garage has been sold successfully. the car is old. 
+EN_Type04_00352|the car in the garage that is old has been sold successfully.|the car in the garage has been sold successfully. the garage is old. 
+EN_Type04_00361|the clock in the house that is big was made of gold.|the clock in the house was made of gold. the clock is big. 
+EN_Type04_00362|the clock in the house that is big was made of gold.|the clock in the house was made of gold. the house is big. 
+EN_Type04_00371|the law in a country that is messed up is questionable.|the law in that country is questionable. the law is messed up. 
+EN_Type04_00372|the law in a country that is messed up is questionable.|the law in that country is questionable. the country is messed up. 
+EN_Type04_00381|i ate the corn on that plate that is big.|i ate the corn on that plate. the corn is big. 
+EN_Type04_00382|i ate the corn on that plate that is big.|i ate the corn on that plate. the plate is big. 
+EN_Type04_00391|the drink in the barn that is smelly is always going to be grandpa's favorite.|the drink in the barn is always going to be grandpa's favorite. the drink is smelly. 
+EN_Type04_00392|the drink in the barn that is smelly is always going to be grandpa's favorite.|the drink in the barn is always going to be grandpa's favorite. the barn is smelly. 
+EN_Type04_00401|the explosion on the ship that is large is caused by a terrorist bomb.|the explosion on the ship is caused by a terrorist bomb. the explosion is large. 
+EN_Type04_00402|the explosion on the ship that is large is caused by a terrorist bomb.|the explosion on the ship is caused by a terrorist bomb. the ship is large. 
+EN_Type04_00411|the water in the gallon that is dirty is thrown away by mom.|the water in the gallon is thrown away by mom. the water is dirty. 
+EN_Type04_00412|the water in the gallon that is dirty is thrown away by mom.|the water in the gallon is thrown away by mom. the gallon is dirty. 
+EN_Type04_00421|game on a computer that is good is paid.|game on a computer is paid. the game is good. 
+EN_Type04_00422|game on a computer that is good is paid.|game on a computer is paid. the computer is good. 
+EN_Type04_00431|the prisoner in the prison that is dirty is very thin.|the prisoner in the prison is very thin. the prisoner is dirty. 
+EN_Type04_00432|the prisoner in the prison that is dirty is very thin.|the prisoner in the prison is very thin. the prison is dirty. 
+EN_Type04_00441|the oil in the pan that is dirty is used to fry the chicken.|the oil in the pan is used to fry the chicken. the oil is dirty. 
+EN_Type04_00442|the oil in the pan that is dirty is used to fry the chicken.|the oil in the pan is used to fry the chicken. the pan is dirty. 
+EN_Type04_00451|the bell in the hotel that is big is made of gold.|the bell in the hotel is made of gold. the bell is big. 
+EN_Type04_00452|the bell in the hotel that is big is made of gold.|the bell in the hotel is made of gold. the hotel is big. 
+EN_Type04_00461|the bed in the room that is small has been around for a long time.|the bed in the room has been around for a long time. the bed is small. 
+EN_Type04_00462|the bed in the room that is small has been around for a long time.|the bed in the room has been around for a long time. the room is small. 
+EN_Type04_00471|the bus at the school that is good is a gift from the local government.|the bus at the school is a gift from the local government. the bus is good. 
+EN_Type04_00472|the bus at the school that is good is a gift from the local government.|the bus at the school is a gift from the local government. the school is good. 
+EN_Type04_00481|the hotel on the island that is exotic is devastated by the earthquake.|the hotel on the island is devastated by the earthquake. the hotel is exotic. 
+EN_Type04_00482|the hotel on the island that is exotic is devastated by the earthquake.|the hotel on the island is devastated by the earthquake. the island is exotic. 
+EN_Type04_00491|the cat in the house that is clean is white-haired.|the cat in the house is white-haired. the cat is clean. 
+EN_Type04_00492|the cat in the house that is clean is white-haired.|the cat in the house is white-haired. the house is clean. 
+EN_Type04_00501|the seller in the market that sells vegetables is very friendly.|the seller in the market is very friendly. the seller sells vegetables. 
+EN_Type04_00502|the seller in the market that sells vegetables is very friendly.|the seller in the market is very friendly. the market sells vegetables. 
+EN_Type04_00511|the lipstick in the bag that the woman wears is just like my mother's.|the lipstick in the bag is just like my mother's. the lipstick is worn by the woman. 
+EN_Type04_00512|the lipstick in the bag that the woman wears is just like my mother's.|the lipstick in the bag is just like my mother's. the bag is worn by the woman. 
+EN_Type04_00521|the statue on the wall that is white is very unique.|the statue on the wall is unique. the statue is white. 
+EN_Type04_00522|the statue on the wall that is white is very unique.|the statue on the wall is unique. the wall is white. 
+EN_Type04_00531|the fruit in the basket that mother bought is peeled by sister.|the fruit in the basket is peeled by sister. the fruit was bought by mother. 
+EN_Type04_00532|the fruit in the basket that mother bought is peeled by sister.|the fruit in the basket is peeled by sister. the basket was bought by mother. 
+EN_Type04_00541|the candy in the bottle that brother gave me is very delicious.|the candy in the bottle is very delicious. the candy was given by brother. 
+EN_Type04_00542|the candy in the bottle that brother gave me is very delicious.|the candy in the bottle is very delicious. the bottle was given by brother. 
+EN_Type04_00551|the veil in the closet that mother gave me is my gift.|the veil in the closet is my gift. the veil was given by mother. 
+EN_Type04_00552|the veil in the closet that mother gave me is my gift.|the veil in the closet is my gift. the closet was given by mother. 
+EN_Type04_00561|the carpet in the class i cleaned is very expensive.|the carpet in the class is very expensive. the carpet was cleaned by me. 
+EN_Type04_00562|the carpet in the class i cleaned is very expensive.|the carpet in the class is very expensive. the class was cleaned by me. 
+EN_Type04_00571|the house in the city i visited yesterday burned down.|the house in the city burned down. i visited the house yesterday. 
+EN_Type04_00572|the house in the city i visited yesterday burned down.|the house in the city burned down. i visited the city yesterday. 
+EN_Type04_00581|the shop beside the road that is being repaired sells eggs at a low price.|the shop beside the road sells eggs at a low price. the shop is being repaired. 
+EN_Type04_00582|the shop beside the road that is being repaired sells eggs at a low price.|the shop beside the road sells eggs at a low price. the road is being repaired. 
+EN_Type04_00591|the ice cream in the fridge that i bought yesterday is made from banana.|the ice cream in the fridge is made from banana. the ice cream was bought by me yesterday. 
+EN_Type04_00592|the ice cream in the fridge that i bought yesterday is made from banana.|the ice cream in the fridge is made from banana. the fridge was bought by me yesterday. 
+EN_Type04_00601|the apple on the plate that was just washed will be peeled by brother.|the apple on the plate will be peeled by brother. the apple was just washed. 
+EN_Type04_00602|the apple on the plate that was just washed will be peeled by brother.|the apple on the plate will be peeled by brother. the plate was just washed. 
+EN_Type04_00611|the game on the computer i bought yesterday is really fun.|the game on the computer is really fun. the game was bought by me yesterday. 
+EN_Type04_00612|the game on the computer i bought yesterday is really fun.|the game on the computer is really fun. the computer was bought by me yesterday. 
+EN_Type04_00621|the pan on the shelf that was cleaned yesterday is used to make rendang.|the pan on the shelf is used to make rendang. the pan was cleaned yesterday. 
+EN_Type04_00622|the pan on the shelf that was cleaned yesterday is used to make rendang.|the pan on the shelf is used to make rendang. the shelf was cleaned yesterday. 
+EN_Type04_00631|the meatballs in the bowl that brother took were eaten by sister.|the meatballs in the bowl were eaten by sister. the meatballs were taken by brother. 
+EN_Type04_00632|the meatballs in the bowl that brother took were eaten by sister.|the meatballs in the bowl were eaten by sister. the bowl was taken by brother. 
+EN_Type04_00641|the candy in the bottle that is yellow is very tasty.|the candy in the bottle is very tasty. the candy is yellow. 
+EN_Type04_00642|the candy in the bottle that is yellow is very tasty.|the candy in the bottle is very tasty. the bottle is yellow. 
+EN_Type04_00651|i read a new history book.|i read a history book. the book is new. 
+EN_Type04_00652|i read a new history book.|i read a history book. the history is new. 
+EN_Type04_00661|we cook in the kitchen of the aunt that is clean.|we cook in aunt's kitchen. the kitchen is clean. 
+EN_Type04_00662|we cook in the kitchen of the aunt that is clean.|we cook in aunt's kitchen. the aunt is clean. 
+EN_Type04_00671|we asked the caretaker of the school that is old.|we asked the school caretaker. the caretaker is aged. 
+EN_Type04_00672|we asked the caretaker of the school that is old.|we asked the school caretaker. the school is aged. 
+EN_Type04_00681|the shirt of the baby that is cute is yellow.|the baby's shirt is yellow. the shirt is cute. 
+EN_Type04_00682|the shirt of the baby that is cute is yellow.|the baby's shirt is yellow. the baby is cute. 
+EN_Type04_00691|the relative of the uncle who is rich came to visit.|the uncle's relative come to visit. the relative is rich. 
+EN_Type04_00692|the relative of the uncle who is rich came to visit.|the uncle's relative came to visit. the uncle is rich. 
+EN_Type04_00701|the brother of my friend who is smart is a lecturer.|my friend's brother is a lecturer. his brother is smart. 
+EN_Type04_00702|the brother of my friend who is smart is a lecturer.|my friend's brother is a lecturer. my friend is smart. 
+EN_Type04_00711|the frame of the painting that is expensive was bought abroad.|the frame of the painting was bought abroad. the frame is expensive. 
+EN_Type04_00712|the frame of the painting that is expensive was bought abroad.|the frame of the painting was bought abroad. the painting is expensive. 
+EN_Type04_00721|the light of the motorcycle that is broken was stolen by people.|the light of the motorcycle was stolen by people. the light is broken. 
+EN_Type04_00722|the light of the motorcycle that is broken was stolen by people.|the light of the motorcycle was stolen by people. the motorcycle is broken. 
+EN_Type04_00731|the vase of the flower that is beautiful is made with clay.|the vase of the flower is made with clay. the vase is beautiful. 
+EN_Type04_00732|the vase of the flower that is beautiful is made with clay.|the vase of the flower is made with clay. the flower is beautiful. 
+EN_Type04_00741|the language of the region that is unique has no written representation.|the language of the region has no written representation. the language is unique. 
+EN_Type04_00742|the language of the region that is unique has no written representation.|the language of the region has no written representation. the region is unique. 
+EN_Type04_00751|the pants of the baby that is rotten are yellow.|the baby pants are yellow. the pants are rotten. 
+EN_Type04_00752|the pants of the baby that is rotten are yellow.|the baby pants are yellow. the baby is rotten. 
+EN_Type04_00761|the satellite of the planet that is small has exploded.|the satellite of the planet has exploded. the satellite is small. 
+EN_Type04_00762|the satellite of the planet that is small has exploded.|the satellite of the planet has exploded. the planet is small. 
+EN_Type04_00771|the wife of the principal who is friendly is wearing a purple shirt.|the principal's wife is wearing purple. the wife is friendly. 
+EN_Type04_00772|the wife of the principal who is friendly is wearing a purple shirt.|the principal's wife is wearing purple. the principal is friendly. 
+EN_Type04_00781|the wife of the employee who is fat is from surabaya.|the employee's wife is from surabaya. the wife is fat. 
+EN_Type04_00782|the wife of the employee who is fat is from surabaya.|the employee's wife is from surabaya. the employee is fat. 
+EN_Type04_00791|the painting of the sculpture that is beautiful is displayed on the wall.|the painting of the sculpture is displayed on the wall. the sculpture is beautiful. 
+EN_Type04_00792|the painting of the sculpture that is beautiful is displayed on the wall.|the painting is displayed on the wall. the painting is beautiful. 
+EN_Type04_00801|the skirt of a kid that was dingy was already torn.|the kid's skirt was torn. the skirt was dingy. 
+EN_Type04_00802|the skirt of a kid that was dingy was already torn.|the kid's skirt was torn. the kid was dingy. 
+EN_Type04_00811|that teacher of andre that is fat could not come today.|andre's teacher could not come today. the teacher is fat. 
+EN_Type04_00812|that teacher of andre that is fat could not come today.|andre's teacher could not come today. andre is fat. 
+EN_Type04_00821|the bottle of my sister that is big is used by her friend.|the bottle of my sister is used by her friend. the bottle is big. 
+EN_Type04_00822|the bottle of my sister that is big is used by her friend.|the bottle of my sister is used by her friend. my sister is big. 
+EN_Type04_00831|the tire of the car that is dirty is flat.|the car tire is flat. the tire is dirty. 
+EN_Type04_00832|the tire of the car that is dirty is flat.|the car tire is flat. the car is dirty. 
+EN_Type04_00841|the doctor examines the neck of the child that is injured.|the doctor examines the neck of the child. the neck is injured. 
+EN_Type04_00842|the doctor examines the neck of the child that is injured.|the doctor examines the neck of the child. the child is injured. 
+EN_Type04_00851|the birds perched on the roof of the house that is red.|the birds perched on the roof of the house. the roof is red. 
+EN_Type04_00852|the birds perched on the roof of the house that is red.|the birds perched on the roof of the house. the house is red. 
+EN_Type04_00861|the members of the group that did not complete the assignments get bad grades.|the members of the group get bad grades. the members did not complete the assignments. 
+EN_Type04_00862|the members of the group that did not complete the assignments get bad grades.|the members of the group get bad grades. the group did not complete the assignments. 
+EN_Type04_00871|the cage of the bird that is yellow is made with rattan.|the cage of the bird is made with rattan. the cage is yellow. 
+EN_Type04_00872|the cage of the bird that is yellow is made with rattan.|the cage of the bird is made with rattan. the bird is yellow. 
+EN_Type04_00881|the cat of the kid that was bitten by the dog seemed agitated.|the cat of the kid seemed agitated. the cat was bitten by the dog. 
+EN_Type04_00882|the cat of the kid that was bitten by the dog seemed agitated.|the cat of the kid seemed agitated. the kid was bitten by the dog. 
+EN_Type04_00891|the can of bean that is red is thrown at my sister.|the can of bean is thrown at my sister. the can is red. 
+EN_Type04_00892|the can of bean that is red is thrown at my sister.|the can of bean is thrown at my sister. the bean is red. 
+EN_Type04_00901|the wife of the police who was arrested laughed at the trial.|the wife of the police laughed at the trial. the wife was arrested. 
+EN_Type04_00902|the wife of the police who was arrested laughed at the trial.|the wife of the police laughed at the trial. the police was arrested. 
+EN_Type04_00911|the head of the cult that bombed the building was sentenced to death.|the head of the cult was sentenced to death. the head bombed the building. 
+EN_Type04_00912|the head of the cult that bombed the building was sentenced to death.|the head of the cult was sentenced to death. the cult bombed the building. 
+EN_Type04_00921|the kids are playing in that library of the city that is scary.|the kids are playing in that city's library. the library is scary. 
+EN_Type04_00922|the kids are playing in that library of the city that is scary.|the kids are playing in that city's library. the city is scary. 
+EN_Type04_00931|there is a bird on the fence of the house that is being repaired.|there is a bird on the house fence. the fence is being repaired. 
+EN_Type04_00932|there is a bird on the fence of the house that is being repaired.|there is a bird on the house fence. the house is being repaired. 
+EN_Type04_00941|the son of the inventor who is a genius loves math.|the son of the inventor loves math. the son is genius. 
+EN_Type04_00942|the son of the inventor who is a genius loves math.|the son of the inventor loves math. the inventor is genius. 
+EN_Type04_00951|the cat of sister that is sitting on the chair is very cute.|sister's cat is very cute. the cat is sitting on the chair. 
+EN_Type04_00952|the cat of sister that is sitting on the chair is very cute.|sister's cat is very cute. the sister is sitting on the chair. 
+EN_Type04_00961|everyone looked at the cage of the elephant that is being cleaned.|everyone looked at the cage of the elephant. the cage is being cleaned. 
+EN_Type04_00962|everyone looked at the cage of the elephant that is being cleaned.|everyone looked at the cage of the elephant. the elephant is being cleaned. 
+EN_Type04_00971|the lawyer of the official who was defrauded is outraged.|the lawyer of the official is outraged. the lawyer was defrauded. 
+EN_Type04_00972|the lawyer of the official who was defrauded is outraged.|the lawyer of the official is outraged. the official was defrauded. 
+EN_Type04_00981|the tire of bicycle that was painted green came off.|the tire of bicycle came off. the tire was painted green. 
+EN_Type04_00982|the tire of bicycle that was painted green came off.|the tire of bicycle came off. the bicycle was painted green. 
+EN_Type04_00991|the rope of the goat that is caught in the bush is very dirty.|the rope of the goat is very dirty. the rope is caught in the bush. 
+EN_Type04_00992|the rope of the goat that is caught in the bush is very dirty.|the rope of the goat is very dirty. the goat is caught in the bush. 
+EN_Type04_01001|the father of my friend who is washing the car is very old.|the father of my friend is very old. the father is washing the car. 
+EN_Type04_01002|the father of my friend who is washing the car is very old.|the father of my friend is very old. my friend is washing the car. 
+EN_Type05_00011|mother cooks egg which was kept in the kitchen.|mother cooks egg which was kept. mother cooks in the kitchen. 
+EN_Type05_00012|mother cooks egg which was kept in the kitchen.|mother cooks egg. the egg was kept in the kitchen. 
+EN_Type05_00021|sister kept the marbles she found in the warehouse.|in the warehouse sister kept the marbles she found. 
+EN_Type05_00022|sister kept the marbles she found in the warehouse.|sister kept the marbles she found. the marbles were found in the warehouse. 
+EN_Type05_00031|sister spells letters written on paper.|sister spells the letters that are written. sister spells on paper. 
+EN_Type05_00032|sister spells letters written on paper.|sister spells the letters that are written. the letters are written on paper. 
+EN_Type05_00041|i tried on the clothes my mother had sewn in the room.|i tried on the clothes my mother had sewn. i tried them in the room. 
+EN_Type05_00042|i tried on the clothes my mother had sewn in the room.|i tried on the clothes my mother had sewn. the clothes were sewn in the room. 
+EN_Type05_00051|the teacher reads the announcement that was affixed in front of the class.|the teacher reads the announcement that was affixed. the teacher reads in front of the class. 
+EN_Type05_00052|the teacher reads the announcement that was affixed in front of the class.|the teacher reads the announcement that was affixed. the announcement was affixed in front of the class. 
+EN_Type05_00061|the police found the boy who was kidnapped in jakarta.|the police found the boy who was kidnapped. the police found him in jakarta. 
+EN_Type05_00062|the police found the boy who was kidnapped in jakarta.|the police found the boy who was kidnapped. the boy was kidnapped in jakarta. 
+EN_Type05_00071|sister folded the cloth that was hung in the room.|sister folded the cloth that was hung. sister folded in the room. 
+EN_Type05_00072|sister folded the cloth that was hung in the room.|sister folded the cloth that was hung. the cloth was hung in the room. 
+EN_Type05_00081|he resells the camera he bought in the market.|he resells the camera he bought. he resells it in the market. 
+EN_Type05_00082|he resells the camera he bought in the market.|he resells the camera he bought. he bought it in the market. 
+EN_Type05_00091|the police found the bodies of the victims who were slaughtered on the bank of the river.|the police found the bodies of the victims who were slaughtered. the police found them on the bank of the river. 
+EN_Type05_00092|the police found the bodies of the victims who were slaughtered on the bank of the river.|the police found the bodies of the victims who were slaughtered. the victims were slaughtered on the bank of the river. 
+EN_Type05_00101|i called a friend whose mother was waiting for him at the school gate.|i called a friend whose mother was waiting for him. i called at the school gate. 
+EN_Type05_00102|i called a friend whose mother was waiting for him at the school gate.|i called the friend his mother was waiting for. he was awaited by his mother at the school gate. 
+EN_Type05_00111|sister eats fish that mother cooks in the kitchen.|sister eats fish that mother cooked. she ate in the kitchen. 
+EN_Type05_00112|sister eats fish that mother cooks in the kitchen.|sister eats fish that mother cooked. the fish was cooked in the kitchen. 
+EN_Type05_00121|brother counts the mangoes harvested in the yard.|brother counts the mangoes harvested. brother counts in the yard. 
+EN_Type05_00122|brother counts the mangoes harvested in the yard.|brother counts the mangoes harvested. the mangoes were harvested in the yard. 
+EN_Type05_00131|they buried the treasure they found in the park.|they buried the treasure they found. they buried it in the park. 
+EN_Type05_00132|they buried the treasure they found in the park.|they buried the treasure they found. they found it in the park. 
+EN_Type05_00141|mother baked the cakes that she sold in the shop.|mother baked the cakes she sold. mom baked them in the shop. 
+EN_Type05_00142|mother baked the cakes that she sold in the shop.|mother baked the cakes she sold. mother sold them in the shop. 
+EN_Type05_00151|sister danced the dance that her teacher taught in front of the class.|sister danced the dance that her teacher taught. sister danced in front of the class. 
+EN_Type05_00152|sister danced the dance that her teacher taught in front of the class.|sister danced the dance that her teacher taught her. her teacher taught in front of the class. 
+EN_Type05_00161|i saw a man selling meatballs on the street.|i saw a man selling meatballs. i saw on the street. 
+EN_Type05_00162|i saw a man selling meatballs on the street.|i saw a man selling meatballs. he sells on the street. 
+EN_Type05_00171|the terrorist detonated the bomb he assembled in his house.|the terrorist detonated the bomb he assembled. the terrorist detonated in his house. 
+EN_Type05_00172|the terrorist detonated the bomb he assembled in his house.|the terrorist detonated the bomb he assembled. he assembled in his house. 
+EN_Type05_00181|father sells rice that he dried in the yard.|father sells the rice that he dried. father sells in the yard. 
+EN_Type05_00182|father sells rice that he dried in the yard.|father sells rice that he dried. father dried it in the yard. 
+EN_Type05_00191|the police arrested the perpetrator who hit the president on the toll road.|the police arrested the perpetrator who hit the president. the police arrested on the toll road. 
+EN_Type05_00192|the police arrested the perpetrator who hit the president on the toll road.|the police arrested the perpetrator who hit the president. the perpetrator hit on the toll road. 
+EN_Type05_00201|soldiers secure foreign vessels that caught the fish in the javanese sea.|soldiers secure foreign vessels that caught the fish. soldiers secure in the javanese sea. 
+EN_Type05_00202|soldiers secure foreign vessels that caught the fish in the javanese sea.|soldiers secure the foreign vessel that caught the fish. the foreign vessel caught in the javanese sea. 
+EN_Type05_00211|mother called sister who was sleeping at grandma's house.|mother called sister who was sleeping. mother called from grandma's house. 
+EN_Type05_00212|mother called sister who was sleeping at grandma's house.|mother called sister who was sleeping. sister was sleeping at grandma's house. 
+EN_Type05_00221|the artist draws a person who is sitting on a park bench.|the artist draws a person who is sitting. the artist draws on a park bench. 
+EN_Type05_00222|the artist draws a person who is sitting on a park bench.|the artist draws a person who is sitting. the person is sitting on a park bench. 
+EN_Type05_00231|the farmer grew the seeds he found in the field.|the farmer grew the seeds he found. the farmer grew in the field. 
+EN_Type05_00232|the farmer grew the seeds he found in the field.|the farmer grew the seeds he found. the seeds were found in the field. 
+EN_Type05_00241|brother dries the fish that father caught on the beach.|brother dries the fish that father caught. brother dries on the beach. 
+EN_Type05_00242|brother dries the fish that father caught on the beach.|brother dries the fish that father caught. father caught on the beach. 
+EN_Type05_00251|brother calls sister who runs on a big rock.|brother calls sister who runs. brother calls on a big rock. 
+EN_Type05_00252|brother calls sister who runs on a big rock.|brother calls sister who runs. sister runs on a big rock. 
+EN_Type05_00261|dad washed the truck he drove yesterday.|dad washed the truck he drove. dad washed yesterday. 
+EN_Type05_00262|dad washed the truck he drove yesterday.|dad washed the truck he drove. dad drove yesterday. 
+EN_Type05_00271|dad added the contents of the piggy bank that sister bought yesterday.|dad added the contents of the piggy bank that sister bought. dad added yesterday. 
+EN_Type05_00272|dad added the contents of the piggy bank that sister bought yesterday.|dad added the contents of the piggy bank that sister bought. the piggy bank was bought yesterday. 
+EN_Type05_00281|dad left in a rented car this morning.|dad left in a rented car. dad left this morning. 
+EN_Type05_00282|dad left in a rented car this morning.|dad left in a rented car. it was rented this morning. 
+EN_Type05_00291|i fried the fish that sister caught this morning.|i fried the fish that sister caught. i fried this morning. 
+EN_Type05_00292|i fried the fish that sister caught this morning.|i fried the fish that sister caught. sister caught this morning. 
+EN_Type05_00301|rainwater washed away the bodies buried yesterday.|the rainwater washed away the bodies buried. they were washed away yesterday. 
+EN_Type05_00302|rainwater washed away the bodies buried yesterday.|the rainwater washed away the bodies buried. the bodies were buried yesterday. 
+EN_Type05_00311|the president ratified the decree proposed by the council last week.|the president ratified the decree proposed by the council. the president ratified last week. 
+EN_Type05_00312|the president ratified the decree proposed by the council last week.|the president ratified the decree proposed by the council. the council proposed last week. 
+EN_Type05_00321|i received the letter that mom sent yesterday.|i received the letter that mom sent. i received it yesterday. 
+EN_Type05_00322|i received the letter that mom sent yesterday.|i received the letter that mom sent. mom sent it yesterday. 
+EN_Type05_00331|she moved to a place she rented last tuesday.|she moved to a place she rented. she moved last tuesday. 
+EN_Type05_00332|she moved to a place she rented last tuesday.|she moved to a place she rented. she rented last tuesday. 
+EN_Type05_00341|dad took the place of his friend who was fired this morning.|father replaced his friend who was fired. father replaced this morning. 
+EN_Type05_00342|dad took the place of his friend who was fired this morning.|father replaced his friend who was fired. his friend was fired this morning. 
+EN_Type05_00351|sister planted the seeds that were distributed this afternoon.|sister planted the seeds that were distributed. sister planted this afternoon. 
+EN_Type05_00352|sister planted the seeds that were distributed this afternoon.|sister planted the seeds that were distributed. the seeds were distributed this afternoon. 
+EN_Type05_00361|brother carved the wood that grandfather brought this morning.|brother carved the wood that my grandfather brought. he carved this morning. 
+EN_Type05_00362|brother carved the wood that grandfather brought this morning.|brother carved the wood that grandfather brought. grandfather brought this morning. 
+EN_Type05_00371|sister watered the seeds that brother planted this morning.|sister watered the seeds that brother planted. sister watered this morning. 
+EN_Type05_00372|sister watered the seeds that brother planted this morning.|sister watered the seeds that brother planted. brother planted this morning. 
+EN_Type05_00381|he stole the notebook i bought yesterday.|he stole the notebook i bought. he stole yesterday. 
+EN_Type05_00382|he stole the notebook i bought yesterday.|he stole the notebook i bought. the notebook was bought yesterday. 
+EN_Type05_00391|dad fixed the lamp that fell yesterday.|dad fixed the lamp that fell. dad fixed it yesterday. 
+EN_Type05_00392|dad fixed the lamp that fell yesterday.|dad fixed the lamp that fell. the lamp fell yesterday. 
+EN_Type05_00401|the police entered the building that was burning the other day.|the police entered the building that was burning. the police entered the other day. 
+EN_Type05_00402|the police entered the building that was burning the other day.|the police entered the building that was burning. the building was burning the other day. 
+EN_Type05_00411|the doctor examined the mother who fell this morning.|the doctor examined the mother who fell. the doctor examined this morning. 
+EN_Type05_00412|the doctor examined the mother who fell this morning.|the doctor examined the mother who fell. the mother fell this morning. 
+EN_Type05_00421|the renowned coach trained the team that competed this afternoon.|the renowned coach trained the team that competed. the renowned coach trained this afternoon. 
+EN_Type05_00422|the renowned coach trained the team that competed this afternoon.|the renowned coach trained the team that competed. the team was competing this afternoon. 
+EN_Type05_00431|brother forbade sister from sleeping this morning.|brother forbade his sister from sleeping. brother forbade this morning. 
+EN_Type05_00432|brother forbade sister from sleeping this morning.|brother forbade his sister from sleeping. the sleep was this morning. 
+EN_Type05_00441|i met the expert on television yesterday.|i met the expert on television. i met yesterday. 
+EN_Type05_00442|i met the expert on television yesterday.|i met the expert who was on television. the expert was on television yesterday. 
+EN_Type05_00451|they found the statue that was missing yesterday.|they found the statue that was missing. they found it yesterday. 
+EN_Type05_00452|they found the statue that was missing yesterday.|they found the statue that was missing. the statue was missing yesterday. 
+EN_Type05_00461|the worker cleared a tree that fell this afternoon.|the worker cleared a tree that fell. the worker cleared it this afternoon. 
+EN_Type05_00462|the worker cleared a tree that fell this afternoon.|the worker cleared a tree that fell. the tree fell this afternoon. 
+EN_Type05_00471|the country retreated from a war that was turbulent last year.|the country retreated from a turbulent war. the country retreated last year. 
+EN_Type05_00472|the country retreated from a war that was turbulent last year.|the country retreated from the turbulent war. the war was turbulent last year. 
+EN_Type05_00481|sister stole the chocolate i bought this afternoon.|sister stole the chocolate i bought. she stole it this afternoon. 
+EN_Type05_00482|sister stole the chocolate i bought this afternoon.|sister stole the chocolate i bought. i bought it this afternoon. 
+EN_Type05_00491|brother buried the cat that died yesterday.|brother buried the cat that died. brother buried it yesterday. 
+EN_Type05_00492|brother buried the cat that died yesterday.|brother buried the cat that died. the cat died yesterday. 
+EN_Type05_00501|i received the package that dad sent today.|i received the package that dad sent. i received it today. 
+EN_Type05_00502|i received the package that dad sent today.|i received the package that dad sent. dad sent it today. 
+EN_Type05_00511|the man caught a ball that was thrown deftly.|the man caught a ball that was thrown. the man caught it deftly. 
+EN_Type05_00512|the man caught a ball that was thrown deftly.|the man caught a ball that was thrown. the ball was thrown deftly. 
+EN_Type05_00521|the merchant counts the eggs the buyer chose carefully.|the merchant counts the eggs the buyer chose. the merchant counts carefully. 
+EN_Type05_00522|the merchant counts the eggs the buyer chose carefully.|the merchant counts the eggs the buyer chose. the buyer chose carefully. 
+EN_Type05_00531|he solves the problem that was given quickly.|he solves the problem that was given. he solves quickly. 
+EN_Type05_00532|he solves the problem that was given quickly.|he solves the problem that was given. the problem was given quickly. 
+EN_Type05_00541|the sun dries fabrics that are dried quickly.|the sun dries fabrics that are dried. the sun dries quickly. 
+EN_Type05_00542|the sun dries fabrics that are dried quickly.|the sun dries fabrics that are dried. the fabrics are dried quickly. 
+EN_Type05_00551|we finish the food that mom cooked slowly.|we finish the food that mom cooked. we finish slowly. 
+EN_Type05_00552|we finish the food that mom cooked slowly.|we finished the food that mom cooked. the food was cooked slowly. 
+EN_Type05_00561|we ate breakfast that mother cooked quickly.|we ate breakfast that mother cooked. we ate quickly. 
+EN_Type05_00562|we ate breakfast that mother cooked quickly.|we ate breakfast that mother cooked. mom cooked quickly. 
+EN_Type05_00571|we lifted a cabinet that was made painstakingly.|we lifted a cabinet that was made. we lifted painstakingly. 
+EN_Type05_00572|we lifted a cabinet that was made painstakingly.|we lifted a cabinet that was made. the cabinet was made painstakingly. 
+EN_Type05_00581|i checked the answers made carefully.|i checked the answers made. i checked carefully. 
+EN_Type05_00582|i checked the answers made carefully.|i checked the answers made. the answer was made carefully. 
+EN_Type05_00591|sister eats the cake that brother bought secretly.|sister eats the cake that brother bought. sister ate secretly. 
+EN_Type05_00592|sister eats the cake that brother bought secretly.|sister eats the cake that brother bought. the cake was bought secretly. 
+EN_Type05_00601|i heard an announcement that was read clearly.|i heard an announcement that was read. i heard clearly. 
+EN_Type05_00602|i heard an announcement that was read clearly.|i heard an announcement that was read. the announcement was read clearly. 
+EN_Type05_00611|dad raised the trap that was put on slowly.|dad raised the trap that was put on. dad raised slowly. 
+EN_Type05_00612|dad raised the trap that was put on slowly.|dad raised the trap that was put on. the trap was put on slowly. 
+EN_Type05_00621|he looked after the mother who was nursed patiently.|he looked after the mother who was nursed. he looked after patiently. 
+EN_Type05_00622|he looked after the mother who was nursed patiently.|he looked after the mother who was nursed. the mother was nursed patiently. 
+EN_Type05_00631|the teacher assessed the task i did well.|the teacher assessed the task i did. the teacher assessed well. 
+EN_Type05_00632|the teacher assessed the task i did well.|the teacher assessed the task i did. i did the task well. 
+EN_Type05_00641|grandpa praised his granddaughter who helped grandma pleasurably.|grandpa praised his granddaughter who helped grandma. grandpa praised pleasurably. 
+EN_Type05_00642|grandpa praised his granddaughter who helped grandma pleasurably.|grandpa praised his granddaughter who helped grandma. his granddaughter helped pleasurably. 
+EN_Type05_00651|sister ate an apple she took with her friends.|sister ate an apple she took. she ate with her friends. 
+EN_Type05_00652|sister ate an apple she took with her friends.|sister ate an apple she took. she took with her friends. 
+EN_Type05_00661|the dog bit the boy who kicked him hard.|the dog bit the boy who kicked him. the dog bit hard. 
+EN_Type05_00662|the dog bit the boy who kicked him hard.|the dog bit the boy who kicked him. the boy kicked hard. 
+EN_Type05_00671|sister licked the ice cream that melted quickly.|sister licked melted ice cream. sister licked quickly. 
+EN_Type05_00672|sister licked the ice cream that melted quickly.|sister licks melted ice cream. the ice cream melts quickly. 
+EN_Type05_00681|the mother imagines her child eating happily.|the mother imagines her child eating. the mother imagines happily. 
+EN_Type05_00682|the mother imagines her child eating happily.|the mother imagines her child eating. the child eats happily. 
+EN_Type05_00691|i got off the ride that was spinning fast.|i got off the ride that was spinning. i got off fast. 
+EN_Type05_00692|i got off the ride that was spinning fast.|i got off the ride that was spinning. the ride was spinning fast. 
+EN_Type05_00701|i accompany my brother who writes lazily.|i accompany my brother who writes. i accompany him lazily. 
+EN_Type05_00702|i accompany my brother who writes lazily.|i accompany my brother who writes. brother writes lazily. 
+EN_Type05_00711|we watched the athletes march proudly.|we watched the athletes march. we watched proudly. 
+EN_Type05_00712|we watched the athletes march proudly.|we watched the athletes march. the athletes marched proudly. 
+EN_Type05_00721|father advises sister who does the task with annoyance.|father advises sister who does the task. father advises with annoyance. 
+EN_Type05_00722|father advises sister who does the task with annoyance.|father advises sister who does the task. sister does task with annoyance. 
+EN_Type05_00731|dad mows the grass that grows quickly.|dad mows the grass that grows. dad mows quickly. 
+EN_Type05_00732|dad mows the grass that grows quickly.|dad mows the grass that grows. grass grows quickly. 
+EN_Type05_00741|the old man watches his son dances happily.|the old man watches his son dance. the old man watches happily. 
+EN_Type05_00742|the old man watches his son dances happily.|the old man watches his son dance. his son dances happily. 
+EN_Type05_00751|a man knocked on the door that i locked quickly.|a man knocked on the door i locked. the man knocked quickly. 
+EN_Type05_00752|a man knocked on the door that i locked quickly.|a man knocked on the door i locked. i locked it quickly. 
+EN_Type05_00761|mom sells the gold she buys at low price.|mom sells the gold she buys. mom sells at a low price. 
+EN_Type05_00762|mom sells the gold she buys at low price.|mom sells the gold she buys. she buys at a low price. 
+EN_Type05_00771|sister destroyed the toy that sister made with wood.|sister destroyed the toy that sister made. sister destroyed it with wood. 
+EN_Type05_00772|sister destroyed the toy that sister made with wood.|sister destroyed the toy that sister made. the toy was made with wood. 
+EN_Type05_00781|i brought a craft made by sister with mother's help.|i brought a craft made by sister. i brought with my mother's help. 
+EN_Type05_00782|i brought a craft made by sister with mother's help.|i brought a craft made by brother. it was made with my mother's help. 
+EN_Type05_00791|he entertained the grandpa who walked with a stick.|he entertained the grandpa who walked. he entertained with a stick. 
+EN_Type05_00792|he entertained the grandpa who walked with a stick.|he entertained the grandpa who walked. the grandpa walked with a stick. 
+EN_Type05_00801|mom keeps clothes that are dried with hangers.|mom keeps clothes that are dried. mom keeps with hangers. 
+EN_Type05_00802|mom keeps clothes that are dried with hangers.|mom keeps clothes that dried. the clothes are dried with hangers. 
+EN_Type05_00811|he pays for jewelry that is made with gold.|he pays for jewelry that is made. he pays with gold. 
+EN_Type05_00812|he pays for jewelry that is made with gold.|he pays for jewelry that is made. the jewelry is made with gold. 
+EN_Type05_00821|i form the dough that has been kneaded by hand.|i form the dough that has been kneaded. i form by hand. 
+EN_Type05_00822|i form the dough that has been kneaded by hand.|i form the dough that has been kneaded. the dough has been kneaded by hand. 
+EN_Type05_00831|take a portion of the egg that has been shaken with a spoon.|take a portion of the egg that has been shaken. take with a spoon. 
+EN_Type05_00832|take a portion of the egg that has been shaken with a spoon.|take a portion of the egg that has been shaken. the egg has been shaken with a spoon. 
+EN_Type05_00841|sister bathes a cat that plays with cold water.|sister bathes a cat that plays. sister bathes with cold water. 
+EN_Type05_00842|sister bathes a cat that plays with cold water.|sister bathes a cat that plays. it plays with cold water. 
+EN_Type05_00851|the child eats the porridge that is taken with the spoon.|the child eats the porridge that is taken. the child eats with the spoon. 
+EN_Type05_00852|the child eats the porridge that is taken with the spoon.|the child eats the porridge that is taken. the porridge is taken with the spoon. 
+EN_Type05_00861|mother closes the rendang that has been cooked with a pan.|mother closes the rendang that has been cooked. mother closes with a pan. 
+EN_Type05_00862|mother closes the rendang that has been cooked with a pan.|mother closes the rendang that has been cooked. the rendang was cooked with a pan. 
+EN_Type05_00871|we burned fish caught with arrows.|we burned the fish caught. we burned with arrows. 
+EN_Type05_00872|we burned fish caught with arrows.|we burned the caught fish. the fish was caught with arrows. 
+EN_Type05_00881|mother hit the child who broke the window with a broomstick.|mother hit the kid who broke the window. mother hit with a broomstick. 
+EN_Type05_00882|mother hit the child who broke the window with a broomstick.|mother hit the kid who broke the window. the kid broke the window with a broomstick. 
+EN_Type05_00891|the man killed the man who attacked him with a knife.|the man killed the man who attacked him. the man killed with a knife. 
+EN_Type05_00892|the man killed the man who attacked him with a knife.|the man killed the man who attacked him. the man attacked with a knife. 
+EN_Type05_00901|the man picks up tourists who come by car.|the man picks up tourists who come. the man picks them up by car. 
+EN_Type05_00902|the man picks up tourists who come by car.|the man picks up tourists who come. the tourists come by car. 
+EN_Type05_00911|sister chased her sister who left by car.|sister chased her sister who left. sister chased by car. 
+EN_Type05_00912|sister chased her sister who left by car.|sister chased her sister who left. her sister left by car. 
+EN_Type05_00921|mother shouted at the cats that were fighting in a loud voice.|mother shouted at the cats that were fighting. mother shouted in a loud voice. 
+EN_Type05_00922|mother shouted at the cats that were fighting in a loud voice.|mother shouted at the cats that were fighting. the cats were fighting in a loud voice. 
+EN_Type05_00931|i covered the pot that sister made with a towel.|i covered the pot that sister made. i covered with a towel. 
+EN_Type05_00932|i covered the pot that sister made with a towel.|i covered the pot sister made. sister made with a towel. 
+EN_Type05_00941|he came to the mosque i was attending with his father.|he came to the mosque i was attending. he came with his father. 
+EN_Type05_00942|he came to the mosque i was attending with his father.|he came to the mosque i was attending. i was attending with his father. 
+EN_Type05_00951|sister decorates the craft that brother made with corn skin.|sister decorates the craft that brother made. sister decorates with corn skin. 
+EN_Type05_00952|sister decorates the craft that brother made with corn skin.|sister decorates the craft that brother made. brother made with corn skin. 
+EN_Type05_00961|father cut the beef he slaughtered with a knife.|father cut the beef he slaughtered. father cut with a knife. 
+EN_Type05_00962|father cut the beef he slaughtered with a knife.|father cut the beef he slaughtered. father slaughtered with a knife. 
+EN_Type05_00971|he scares the kid who walks with a flashlight.|he scares the kid who walks. he scares with a flashlight. 
+EN_Type05_00972|he scares the kid who walks with a flashlight.|he scares the kid who walks. the kid walks with a flashlight. 
+EN_Type05_00981|the man chases the thief who ran off on a motorcycle.|the man chases the thief who ran off. the man chases on a motorcycle. 
+EN_Type05_00982|the man chases the thief who ran off on a motorcycle.|the man chases the thief who ran off. the thief ran off on a motorcycle. 
+EN_Type05_00991|sister crossed out the picture i drew with a pencil.|sister crossed out the picture i drew. sister crossed with a pencil. 
+EN_Type05_00992|sister crossed out the picture i drew with a pencil.|sister crossed out the picture i drew. the picture was drawn with a pencil. 
+EN_Type05_01001|earlier i fed the baby who was playing with a spoon.|earlier i fed the baby who was playing. i fed with a spoon. 
+EN_Type05_01002|earlier i fed the baby who was playing with a spoon.|earlier i fed the baby who was playing. the baby was playing with a spoon. 
+EN_Type06_00011|i saw someone on the mountain.|i saw someone. i saw on the mountain. 
+EN_Type06_00012|i saw someone on the mountain.|i saw someone. the person is on the mountain. 
+EN_Type06_00021|he wrote the formula that is shown in his book.|he wrote the formula that is shown. he wrote in his book. 
+EN_Type06_00022|he wrote the formula that is shown in his book.|he wrote the formula that is shown. the formula is shown in his book. 
+EN_Type06_00031|brother hit people with a luxury car.|brother hit people. brother hit with a luxury car. 
+EN_Type06_00032|brother hit people with a luxury car.|brother hit people. the people are with a luxury car. 
+EN_Type06_00041|the boy throws away trash in the desk drawer.|the boy throws away trash. the boy throws away in the desk drawer. 
+EN_Type06_00042|the boy throws away trash in the desk drawer.|the boy throws away trash. the trash was in the desk drawer. 
+EN_Type06_00051|sister bounces the ball on the floor.|sister bounces the ball. sister bounces on the floor. 
+EN_Type06_00052|sister bounces the ball on the floor.|sister bounces the ball. the ball was on the floor. 
+EN_Type06_00061|the teacher rings the bell in front of the class.|the teacher rings the bell. the teacher rings in front of the class. 
+EN_Type06_00062|the teacher rings the bell in front of the class.|the teacher rings the bell. the bell is in front of the class. 
+EN_Type06_00071|i shot a pig in the woods.|i shot a pig. i shot in the woods. 
+EN_Type06_00072|i shot a pig in the woods.|i shot a pig. the pig is in the woods. 
+EN_Type06_00081|brother is waiting for someone in the next room.|brother is waiting for someone. brother is waiting in the next room. 
+EN_Type06_00082|brother is waiting for someone in the next room.|brother is waiting for someone. someone is in the next room. 
+EN_Type06_00091|the police found the statue in the official's house.|the police found the statue. the police found it in the official's house. 
+EN_Type06_00092|the police found the statue in the official's house.|the police found the statue. it used to be in the official's house. 
+EN_Type06_00101|sister reads a newspaper in the living room.|sister reads a newspaper. sister reads in the living room. 
+EN_Type06_00102|sister reads a newspaper in the living room.|sister reads a newspaper. the newspaper is in the living room. 
+EN_Type06_00111|mother watered the vase by the window.|mother watered the vase. mother watered by the window. 
+EN_Type06_00112|mother watered the vase by the window.|mother watered the vase. the vase is by the window. 
+EN_Type06_00121|he washes the car on the sidewalk.|he washes the car. he washes on the sidewalk. 
+EN_Type06_00122|he washes the car on the sidewalk.|he washes the car. the car is on the sidewalk. 
+EN_Type06_00131|yanti is frying fish in the kitchen.|yanti is frying fish. yanti is frying in the kitchen. 
+EN_Type06_00132|yanti is frying fish in the kitchen.|yanti is frying fish. the fish is in the kitchen. 
+EN_Type06_00141|i peeled the apple in the yard.|i peeled the apple. i peeled in the yard. 
+EN_Type06_00142|i peeled the apple in the yard.|i peeled the apple. the apple is in the yard. 
+EN_Type06_00151|he eats pineapple in the kitchen.|he eats pineapple. he eats in the kitchen. 
+EN_Type06_00152|he eats pineapple in the kitchen.|he eats pineapple. the pineapple is in the kitchen. 
+EN_Type06_00161|the man yelled at the cyclist on the side of the road.|the man yelled at the cyclist. the man yelled on the side of the road. 
+EN_Type06_00162|the man yelled at the cyclist on the side of the road.|the man yelled at the cyclist. the cyclist is on the side of the road. 
+EN_Type06_00171|student writes the discussion of the question on the blackboard.|student writes the discussion of the question. student writes on the blackboard. 
+EN_Type06_00172|student writes the discussion of the question on the blackboard.|student writes the discussion of the question. the question is on the blackboard. 
+EN_Type06_00181|the student presented the results of his work at the internship.|the student presented the results of his work. he presented at the internship. 
+EN_Type06_00182|the student presented the results of his work at the internship.|the student presented the results of his work. the work is at the internship. 
+EN_Type06_00191|i burned the garbage in the yard.|i burned the garbage. i burned in the yard. 
+EN_Type06_00192|i burned the garbage in the yard.|i burned the garbage. the garbage is in the yard. 
+EN_Type06_00201|sister washes dirty cloth in the bathroom.|sister washes dirty cloth. sister washes in the bathroom. 
+EN_Type06_00202|sister washes dirty cloth in the bathroom.|sister washes dirty cloth. the cloth is in the bathroom. 
+EN_Type06_00211|i heard screaming in the next room.|i heard screaming. i heard it in the next room. 
+EN_Type06_00212|i heard screaming in the next room.|i heard screaming. the screaming is in the next room. 
+EN_Type06_00221|i listen to a musician on the side of the road.|i listen to a musician. i listen on the side of the road. 
+EN_Type06_00222|i listen to a musician on the side of the road.|i listen to a musician. the musician is on the side of the road. 
+EN_Type06_00231|he took a picture of two birds on the garden chair.|he took a picture of two birds. he took the picture on the garden chair. 
+EN_Type06_00232|he took a picture of two birds on the garden chair.|he took a picture of two birds. the birds are on the garden chair. 
+EN_Type06_00241|the agent was watching a man at the corner of the room.|the agent was watching a man. the agent was at the corner of the room. 
+EN_Type06_00242|the agent was watching a man at the corner of the room.|the agent was watching a man. the man was at the corner of the room. 
+EN_Type06_00251|we called the meatball seller at the side of the road.|we called the meatball seller. we called at the side of the road. 
+EN_Type06_00252|we called the meatball seller at the side of the road.|we called the meatball seller. the seller is at the side of the road. 
+EN_Type06_00261|father advertises his business outside the city.|father advertises his business. father advertises outside the city. 
+EN_Type06_00262|father advertises his business outside the city.|father advertises his business. the business is outside the city. 
+EN_Type06_00271|sister waits for her brother at school.|sister waits for her brother. sister waits at school. 
+EN_Type06_00272|sister waits for her brother at school.|sister waits for her brother. her brother is at school. 
+EN_Type06_00281|he told me about the cat at school.|he told me about the cat. he told at school. 
+EN_Type06_00282|he told me about the cat at school.|he told me about the cat. the cat is at school. 
+EN_Type06_00291|they laughed at the kid in the middle of the field.|they laughed at the kid. they laughed in the middle of the field. 
+EN_Type06_00292|they laughed at the kid in the middle of the field.|they laughed at the kid. the kid is in the middle of the field. 
+EN_Type06_00301|a man jumped out of the building that we visited yesterday.|a man jumped from the building that we visited. the man jumped yesterday. 
+EN_Type06_00302|a man jumped out of the building that we visited yesterday.|a man jumped out of the building that we visited. we visited yesterday. 
+EN_Type06_00311|the merchant boiled the chicken from yesterday afternoon.|the merchant boiled the chicken. the merchant boiled from yesterday afternoon. 
+EN_Type06_00312|the merchant boiled the chicken from yesterday afternoon.|the merchant boiled the chicken. the chicken was from yesterday afternoon. 
+EN_Type06_00321|he admitted his mistake that night.|he admitted his mistake. he confessed that night. 
+EN_Type06_00322|he admitted his mistake that night.|he admitted his mistake. the mistake was made that night. 
+EN_Type06_00331|he cooked the breakfast that was served this morning.|he cooked the breakfast that was served. he cooked this morning. 
+EN_Type06_00332|he cooked the breakfast that was served this morning.|he cooked the breakfast that was served. the breakfast was served this morning. 
+EN_Type06_00341|mother read the announcement made yesterday.|mother read the announcement made. mother read yesterday. 
+EN_Type06_00342|mother read the announcement made yesterday.|mother read the announcement made. the announcement was made yesterday. 
+EN_Type06_00351|she borrowed a book she found this morning.|she borrowed a book she found. she borrowed this morning. 
+EN_Type06_00352|she borrowed a book she found this morning.|she borrowed a book she found. the book was found this morning. 
+EN_Type06_00361|grandmother remembered her grandchild that called yesterday.|grandma remembered her grandchild that called. grandma remembered yesterday. 
+EN_Type06_00362|grandmother remembered her grandchild that called yesterday.|grandma remembered her grandchild that called. the grandchild called yesterday. 
+EN_Type06_00371|they shared the food made this morning.|they shared the food made. they shared this morning. 
+EN_Type06_00372|they shared the food made this morning.|they shared the food made. the food was made this morning. 
+EN_Type06_00381|the pilot reported the situation of the plane two minutes ago.|the pilot reported the situation of the plane. the pilot reported two minutes ago. 
+EN_Type06_00382|the pilot reported the situation of the plane two minutes ago.|the pilot reported the situation of the plane. the situation of two minutes ago. 
+EN_Type06_00391|i met the security guard from yesterday.|i met the security guard. i met from yesterday. 
+EN_Type06_00392|i met the security guard from yesterday.|i met the security guard. I met the security guard yesterday and again today. 
+EN_Type06_00401|the company received the job application last week.|the company received the job application. the company received last week. 
+EN_Type06_00402|the company received the job application last week.|the company received the job application. the job application was applied last week. 
+EN_Type06_00411|i admired her performance last week.|i admired her performance. i admired last week. 
+EN_Type06_00412|i admired her performance last week.|i admired her performance. It was performed last week. 
+EN_Type06_00421|a bunch of thieves broke the door of the inn that they stayed last night.|a bunch of thieves broke the door of the inn that they stayed. the thieves broke the door last night. 
+EN_Type06_00422|a bunch of thieves broke the door of the inn that they stayed last night.|a bunch of thieves broke the door of the inn that they stayed. The thieves stayed last night. 
+EN_Type06_00431|i lost the newspaper i bought this morning.|i lost the newspaper I bought. i lost this morning. 
+EN_Type06_00432|i lost the newspaper i bought this morning.|i lost the newspaper I bought. the newspaper was bought this morning. 
+EN_Type06_00441|i adopted a cat we found this afternoon.|i adopted a cat we found. i adopted this afternoon. 
+EN_Type06_00442|i adopted a cat we found this afternoon.|i adopted a cat we found. the cat was found this afternoon. 
+EN_Type06_00451|we ate rice that was cooked yesterday.|we ate rice that was cooked. we ate yesterday. 
+EN_Type06_00452|we ate rice that was cooked yesterday.|we ate rice that was cooked. it was cooked yesterday. 
+EN_Type06_00461|we watched the show that was playing last night.|we watched the show that was playing. we watched it last night. 
+EN_Type06_00462|we watched the show that was playing last night.|we watched the show that was playing. the show was playing last night. 
+EN_Type06_00471|father sold the cow he bought yesterday.|father sold the cow he bought. father sold it yesterday. 
+EN_Type06_00472|father sold the cow he bought yesterday.|father sold the cow he bought. the cow was bought yesterday. 
+EN_Type06_00481|the businessman checked his stock he bought last week.|the businessman checked his stock. the businessman checked last week. 
+EN_Type06_00482|the businessman checked his stock he bought last week.|the businessman checked his stock. the stock was bought last week. 
+EN_Type06_00491|sister finished fried tofu that was made last night.|sister finished fried tofu that was made. sister finished last night. 
+EN_Type06_00492|sister finished fried tofu that was made last night.|sister finished fried tofu that was made. the fried tofu was made last night. 
+EN_Type06_00501|inhabitants caught the thieves that ran away this morning.|inhabitants caught the thieves that ran away. inhabitants caught this morning. 
+EN_Type06_00502|inhabitants caught the thieves that ran away this morning.|inhabitants caught the thieves that ran away. the thieves ran away this morning. 
+EN_Type06_00511|the driver drove the car from the city.|the driver drove the car. the driver drove from the city. 
+EN_Type06_00512|the driver drove the car from the city.|the driver drove the car. the car is from the city. 
+EN_Type06_00521|the boy snatched the money from his mother.|the boy snatched the money. the boy snatched from his mother. 
+EN_Type06_00522|the boy snatched the money from his mother.|the boy snatched the money. the money is from his mother. 
+EN_Type06_00531|the truck transports car from germany.|the truck transports car. the truck transports from germany. 
+EN_Type06_00532|the truck transports car from germany.|the truck transports cars. the car is made in germany. 
+EN_Type06_00541|the cat takes food from its owner.|the cat takes food. the cat takes from its owner. 
+EN_Type06_00542|the cat takes food from its owner.|the cat takes food. the food is from its owner. 
+EN_Type06_00551|mom cleans the craft made with egg crust.|mom cleans the craft made. mom cleans it with egg crust. 
+EN_Type06_00552|mom cleans the craft made with egg crust.|mom cleans the craft. the craft is made with egg crust. 
+EN_Type06_00561|father received information from the next town.|father received information. father received from the next town. 
+EN_Type06_00562|father received information from the next town.|father received the information. the information is from the next town. 
+EN_Type06_00571|sister pelts a cat from grandma's house.|sister pelts a cat. sister pelts from grandma's house. 
+EN_Type06_00572|sister pelts a cat from grandma's house.|sister pelts a cat. the cat is from grandma's house. 
+EN_Type06_00581|the young man pulled a tree from the mountain.|the young man pulled a tree. the young man pulled from the mountain. 
+EN_Type06_00582|the young man pulled a tree from the mountain.|the young man pulled a tree. the tree was from the mountain. 
+EN_Type06_00591|i keep the bottle from my sister.|i keep the bottle. i keep from my sister. 
+EN_Type06_00592|i keep the bottle from my sister.|i keep the bottle. the bottle is from my sister. 
+EN_Type06_00601|sister hid the cake from the guests.|sister hid the cake. sister hid from the guests. 
+EN_Type06_00602|sister hid the cake from the guests.|sister hid the cake. the cake was from the guests. 
+EN_Type06_00611|he took the bike from the president.|he took the bicycle. he took from the president. 
+EN_Type06_00612|he took the bike from the president.|he took the bicycle. the bicycle is from the president. 
+EN_Type06_00621|sister took the candy from mother.|sister took the candy. sister took from mother. 
+EN_Type06_00622|sister took the candy from mother.|sister took the candy. the candy is from mother. 
+EN_Type06_00631|the pilot flew a plane from germany.|the pilot flew the plane. the pilot flew from germany. 
+EN_Type06_00632|the pilot flew a plane from germany.|the pilot flew the plane. the plane was made in germany. 
+EN_Type06_00641|sister ordered food from neighbor's house.|sister ordered food. sister ordered from the neighbor's house. 
+EN_Type06_00642|sister ordered food from neighbor's house.|sister ordered food. the food is from the neighbor's house. 
+EN_Type06_00651|grandfather keeps mementos from senile grandmother.|grandpa keeps mementos. grandpa keeps from senile grandmother. 
+EN_Type06_00652|grandfather keeps mementos from senile grandmother.|grandfather keeps mementos. the mementos are from senile grandmother. 
+EN_Type06_00661|father sent food from aceh.|father sent food. father sent from aceh. 
+EN_Type06_00662|father sent food from aceh.|father sent food. the food is from aceh. 
+EN_Type06_00671|i got information from mom.|i got information. i got it directly from mom. 
+EN_Type06_00672|i got information from mom.|i got information. the information was from mom. 
+EN_Type06_00681|sister is carrying the cat from the living room.|sister is carrying the cat. sister is carrying from the living room. 
+EN_Type06_00682|sister is carrying the cat from the living room.|sister is carrying the cat. the cat is from the living room. 
+EN_Type06_00691|he picked up the decoration that was made from the wooden board.|he picked up the decoration that was made. he picked it up from the wooden board. 
+EN_Type06_00692|he picked up the decoration that was made from the wooden board.|he picked up the decoration that was made. the decoration was made from the wooden board. 
+EN_Type06_00701|father rides a cow from the village next door.|father rides a cow. father rides from the village next door. 
+EN_Type06_00702|father rides a cow from the village next door.|father rides a cow. the cow is from the village next door. 
+EN_Type06_00711|sister filled the bottle with blue rubber.|sister filled the bottle. sister filled it using blue rubber. 
+EN_Type06_00712|sister filled the bottle with blue rubber.|sister filled the bottle. the bottle was filled with blue rubber. 
+EN_Type06_00721|the teacher points at the student with a ruler.|the teacher points at the student. the teacher points with the ruler. 
+EN_Type06_00722|the teacher points at the student with a ruler.|the teacher points at the student. the student is with the ruler. 
+EN_Type06_00731|brother scares sister with white cloth.|brother scares sister. brother scares with white cloth. 
+EN_Type06_00732|brother scares sister with white cloth.|brother scares sister. the sister is with white cloth. 
+EN_Type06_00741|sister persuaded the cat with a necklace that could ring.|sister persuaded the cat. sister persuaded using a necklace that could ring. 
+EN_Type06_00742|sister persuaded the cat with a necklace that could ring.|sister persuaded the cat. the cat is with a necklace that could ring. 
+EN_Type06_00751|he photographed a child with a camera.|he photographed a child. he photographed with the camera. 
+EN_Type06_00752|he photographed a child with a camera.|he photographed a child. the child was with the camera. 
+EN_Type06_00761|brother kicked the little boy with new shoes.|brother kicked the little boy. brother kicked in his new shoes. 
+EN_Type06_00762|brother kicked the little boy with new shoes.|brother kicked the little boy. the boy is with new shoes. 
+EN_Type06_00771|that politician bribed people with a lot of money.|that politician bribed people. the politician bribed with a lot of money. 
+EN_Type06_00772|that politician bribed people with a lot of money.|that politician bribed people. the people are with a lot of money. 
+EN_Type06_00781|they shot a man with a gun.|they shot a man. they shot him with a gun. 
+EN_Type06_00782|they shot a man with a gun.|they shot a man. the man is with a gun. 
+EN_Type06_00791|i saw a kid with sunglasses.|i saw a kid. i saw him through sunglasses. 
+EN_Type06_00792|i saw a kid with sunglasses.|i saw a kid. the kid is wearing sunglasses. 
+EN_Type06_00801|the man covered the child's mouth with a handkerchief.|the man covered the child's mouth. the man used a handkerchief. 
+EN_Type06_00802|the man covered the child's mouth with a handkerchief.|the man covered the child's mouth. the child was with a handkerchief. 
+EN_Type06_00811|the man hits a little boy with a baseball bat.|the man hits a little boy. the man hits with a baseball bat. 
+EN_Type06_00812|the man hits a little boy with a baseball bat.|the man hits a little boy. the little boy is with a baseball bat. 
+EN_Type06_00821|he hits a kid with a bag.|he hits a kid. he hits with a bag. 
+EN_Type06_00822|he hits a kid with a bag.|he hits a kid. the kid is with a bag. 
+EN_Type06_00831|sister ate cut ice with meses.|sister ate cut ice. sister ate with meses. 
+EN_Type06_00832|sister ate cut ice with meses.|sister ate cut ice. the cut ice is with meses. 
+EN_Type06_00841|the coach calls a kid with a loudspeaker.|the coach calls a kid. the coach calls with a loudspeaker. 
+EN_Type06_00842|the coach calls a kid with a loudspeaker.|the coach calls a kid. the kid is with a loudspeaker. 
+EN_Type06_00851|i cover the book with red paper.|i cover the book. i cover with red paper. 
+EN_Type06_00852|i cover the book with red paper.|i cover the book. the book is with red paper. 
+EN_Type06_00861|she closed the bag with a blue cloth.|she closed the bag. she closed with a blue cloth. 
+EN_Type06_00862|she closed the bag with a blue cloth.|she closed the bag. the bag is with a blue cloth. 
+EN_Type06_00871|sister cleans the floor with coconut pulp.|sister cleans the floor. sister cleans with coconut pulp. 
+EN_Type06_00872|sister cleans the floor with coconut pulp.|sister cleans the floor. the floor is covered with coconut pulp. 
+EN_Type06_00881|he pulled the cat with a red ribbon.|he pulled the cat. he pulled with a red ribbon. 
+EN_Type06_00882|he pulled the cat with a red ribbon.|he pulled the cat. the cat is with a red ribbon. 
+EN_Type06_00891|he peeked at the child with binoculars.|he peeked at the child. he peeked him through binoculars. 
+EN_Type06_00892|he peeked at the child with binoculars.|he peeked at the child. the child is with binoculars. 
+EN_Type06_00901|he walks down the street with lights.|he walks down the street. he walks with lights. 
+EN_Type06_00902|he walks down the street with lights.|he walks down the street. the street is with lights. 
+EN_Type06_00911|brother took some fish for the cat.|brother took some fish. he took them for the cat. 
+EN_Type06_00912|brother took some fish for the cat.|brother took some fish. the fish were there for the cat. 
+EN_Type06_00921|sister cut the fruit for the village birthday celebration.|for the village birthday celebration sister cut the fruit. 
+EN_Type06_00922|sister cut the fruit for the village birthday celebration.|sister cut the fruit. the fruit was for the village birthday celebration. 
+EN_Type06_00931|sister took the bananas for bird food.|sister took the bananas. sister took to use for bird food. 
+EN_Type06_00932|sister took the bananas for bird food.|sister took the bananas. those bananas were for bird food. 
+EN_Type06_00941|sister decorates the flower pot for mom.|sister decorates the flower pot. sister decorates it for mom. 
+EN_Type06_00942|sister decorates the flower pot for mom.|sister decorates the flower pot. the flower pot was for mom. 
+EN_Type06_00951|he managed to answer the question that was given earliest.|he managed to answer the question that was given. he managed to answer earliest. 
+EN_Type06_00952|he managed to answer the question that was given earliest.|he managed to answer the question that was given. the question was given earliest. 
+EN_Type06_00961|she hugs the doll with soft fur.|she hugs the doll. she hugs with soft fur. 
+EN_Type06_00962|she hugs the doll with soft fur.|she hugs the doll. the doll is with soft fur. 
+EN_Type06_00971|brother brought scissors for cutting tree branches.|brother brought scissors. brother brought for cutting tree branches. 
+EN_Type06_00972|brother brought scissors for cutting tree branches.|brother brought scissors. the scissors is designed for cutting tree branches. 
+EN_Type06_00981|the grandfather rescued a dog in an injured state.|the grandfather rescued a dog. the grandfather rescued in an injured state. 
+EN_Type06_00982|the grandfather rescued a dog in an injured state.|the grandfather rescued a dog. the dog was in an injured state. 
+EN_Type06_00991|i gave the money to a beggar i met last night.|i gave money to a beggar i met. i gave last night. 
+EN_Type06_00992|i gave the money to a beggar i met last night.|i gave money to a beggar. i met the beggar last night. 
+EN_Type06_01001|sister knits wool yarn for brother.|sister knits wool yarn. sister knits it for brother. 
+EN_Type06_01002|sister knits wool yarn for brother.|sister knits wool yarn. the wool yarn was for brother. 
+EN_Type10_00011|the woman wears black glasses and shirt.|the woman wears glasses and shirt. the glasses are black but the color of the shirt is unknown. 
+EN_Type10_00012|the woman wears black glasses and shirt.|the woman wears glasses and shirt. the glasses and shirt are both black. 
+EN_Type10_00021|my friend stole new pencil and ruler.|my friend stole pencil and ruler. the pencil is new. 
+EN_Type10_00022|my friend stole new pencil and ruler.|my friend stole pencil and ruler. the pencil and the ruler are both new. 
+EN_Type10_00031|the rich guy has expensive cars and trucks.|the rich guy has cars and trucks. the cars are expensive. 
+EN_Type10_00032|the rich guy has expensive cars and trucks.|the rich guy has cars and trucks. the cars and trucks are both expensive. 
+EN_Type10_00041|in uncle's garden there are rotten tomatoes and potatoes.|in uncle's garden there are tomatoes and potatoes. the tomatoes are rotten. 
+EN_Type10_00042|in uncle's garden there are rotten tomatoes and potatoes.|in uncle's garden there are tomatoes and potatoes. the tomatoes and potatoes are both rotten. 
+EN_Type10_00051|the chicken is cooked with fresh lemon and honey.|the chicken is cooked with lemon and honey. the lemon is fresh. 
+EN_Type10_00052|the chicken is cooked with fresh lemon and honey.|the chicken is cooked with lemon and honey. the lemon and honey are both fresh. 
+EN_Type10_00061|this training model uses correct text translation and speech signals.|this training model uses text translation and speech signals. the text translation is correct. 
+EN_Type10_00062|this training model uses correct text translation and speech signals.|this training model uses text translation and speech signals. the text translation and speech signals are both correct. 
+EN_Type10_00071|grandfather raised rare cats and birds.|grandfather raised cats and birds. the cats are rare. 
+EN_Type10_00072|grandfather raised rare cats and birds.|grandfather raised cats and birds. the cats and the birds are both rare. 
+EN_Type10_00081|this is the place for dried leaves and trash.|this is the place for leaves and trash. the leaves are dried. 
+EN_Type10_00082|this is the place for dried leaves and trash.|this is the place for leaves and trash. the leaves and trash are both dried. 
+EN_Type10_00091|the woman has a cute girl and a boy.|the woman has a girl and a boy. the girl is cute. 
+EN_Type10_00092|the woman has a cute girl and a boy.|the woman has a girl and a boy. the girl and the boy are both cute. 
+EN_Type10_00101|a friend of mine raised a fierce dog and cat.|a friend of mine raised dog and cat. the dog is fierce. 
+EN_Type10_00102|a friend of mine raised a fierce dog and cat.|a friend of mine raised dog and cat. the dog and cat are both fierce. 
+EN_Type10_00111|we ordered bitter coffee and tea.|we ordered coffee and tea. the coffee is bitter. 
+EN_Type10_00112|we ordered bitter coffee and tea.|we ordered coffee and tea. the coffee and tea are both bitter. 
+EN_Type10_00121|brother bought green bananas and apples.|brother bought bananas and apples. the bananas are green. 
+EN_Type10_00122|brother bought green bananas and apples.|brother bought bananas and apples. the bananas and apples are both green. 
+EN_Type10_00131|each room has a small toilet and kitchen.|each room has toilet and kitchen. the toilet is small. 
+EN_Type10_00132|each room has a small toilet and kitchen.|each room has toilet and kitchen. the toilet and the kitchen are both small. 
+EN_Type10_00141|the waiter brought a small spoon and fork.|the waiter brought spoon and fork. the spoon is small. 
+EN_Type10_00142|the waiter brought a small spoon and fork.|the waiter brought spoon and fork. the spoon and fork are both small. 
+EN_Type10_00151|my sister brought a new doll and blanket.|my sister brought doll and blanket. the doll is new. 
+EN_Type10_00152|my sister brought a new doll and blanket.|my sister brought doll and blanket. the doll and blanket are both new. 
+EN_Type10_00161|the waiter was wearing a black apron and hat.|the waiter was wearing apron and hat. the apron is black. 
+EN_Type10_00162|the waiter was wearing a black apron and hat.|the waiter was wearing apron and hat. the apron and hat are both black. 
+EN_Type10_00171|in the corner of the room there are dirty dishes and shoes.|in the corner of the room there are dishes and shoes. the dishes are dirty. 
+EN_Type10_00172|in the corner of the room there are dirty dishes and shoes.|in the corner of the room there are dishes and shoes. the dishes and shoes are both dirty. 
+EN_Type10_00181|father has an antique bike and car.|father has a bike and car. the bike is antique. 
+EN_Type10_00182|father has an antique bike and car.|father has a bike and car. the bike and car are both antique. 
+EN_Type10_00191|he had to eat old rice and anchovies.|he had to eat rice and anchovies. the rice was old. 
+EN_Type10_00192|he had to eat old rice and anchovies.|he had to eat rice and anchovies. the rice and the anchovies were both old. 
+EN_Type10_00201|sister bought red ornamental fish and balloons.|sister bought ornamental fish and balloons. the ornamental fish is red. 
+EN_Type10_00202|sister bought red ornamental fish and balloons.|sister bought ornamental fish and balloons. the ornamental fish and the balloons are both red. 
+EN_Type10_00211|in his house there are ancient sculptures and paintings.|in his house there are sculptures and paintings. the sculptures are ancient. 
+EN_Type10_00212|in his house there are ancient sculptures and paintings.|in his house there are sculptures and paintings. the sculptures and paintings are both ancient. 
+EN_Type10_00221|today they eat with cold rice and tempeh.|today they eat with rice and tempeh. the rice is cold. 
+EN_Type10_00222|today they eat with cold rice and tempeh.|today they eat with rice and tempeh. the rice and the tempeh are both cold. 
+EN_Type10_00231|that hospital provides free eye exams and blood transfusions.|that hospital provides eye exams and blood transfusions. the eye exams are free. 
+EN_Type10_00232|that hospital provides free eye exams and blood transfusions.|that hospital provides eye exams and blood transfusions. the eye exams and blood transfusions are both free. 
+EN_Type10_00241|the menu was made with raw tomatoes and eggs.|the menu was made with tomatoes and eggs. the tomatoes are raw. 
+EN_Type10_00242|the menu was made with raw tomatoes and eggs.|the menu was made with tomatoes and eggs. the tomatoes and eggs are both raw. 
+EN_Type10_00251|the woman wears black glasses and shirt.|the woman wears glasses and shirt. the glasses are black. 
+EN_Type10_00252|the woman wears black glasses and shirt.|the woman wears glasses and shirt. the glasses and shirt are both black. 
+EN_Type10_00261|mom sells fresh vegetables and fish.|mom sells vegetables and fish. the vegetables are fresh. 
+EN_Type10_00262|mom sells fresh vegetables and fish.|mom sells vegetables and fish. the vegetables and fish are both fresh. 
+EN_Type10_00271|the arrogant queen and king had finally come.|the queen and king had finally come. the queen is arrogant. 
+EN_Type10_00272|the arrogant queen and king had finally come.|the queen and king had finally come. the queen and king are both arrogant. 
+EN_Type10_00281|the old women and men watched the parade.|the old women and men watched the parade. the women are old. 
+EN_Type10_00282|the old women and men watched the parade.|old women and men watched the parade. the women and men are both old. 
+EN_Type10_00291|the young mangoes and pineapples have all been made into rujak.|the mangoes and pineapples have all been made into rujak. the mangoes are young. 
+EN_Type10_00292|the young mangoes and pineapples have all been made into rujak.|the mangoes and pineapples have all been made into rujak. the mangoes and  pineapples are both young. 
+EN_Type10_00301|the red tie and suit were kept in the closet.|the tie and suit were kept in the closet. the tie is red. 
+EN_Type10_00302|the red tie and suit were kept in the closet.|tie and suit were kept in the closet. the tie and suit are both red. 
+EN_Type10_00311|dad's antique bikes and cars had to be sold.|dad's bikes and cars had to be sold. the bikes were antique. 
+EN_Type10_00312|dad's antique bikes and cars had to be sold.|dad's bikes and cars had to be sold. the bikes and cars were both antique. 
+EN_Type10_00321|the blunt knife and scissors were brought into the kitchen.|the knife and scissors were brought into the kitchen. the knife is blunt. 
+EN_Type10_00322|the blunt knife and scissors were brought into the kitchen.|the knife and scissors were brought into the kitchen. the knife and the scissors are both blunt. 
+EN_Type10_00331|the dried leaf and garbage were put in a sack.|the leaf and garbage were put in a sack. the leaf was dry. 
+EN_Type10_00332|the dried leaf and garbage were put in a sack.|the leaf and garbage were put in a sack. the leaf and garbage were both dry. 
+EN_Type10_00341|the damp towel and jacket were hung on the wall.|the towel and jacket were hung on the wall. the towel is damp. 
+EN_Type10_00342|the damp towel and jacket were hung on the wall.|the towel and jacket were hung on the wall. the towel and jacket are both damp. 
+EN_Type10_00351|the little cat and dog are very cute.|the cat and dog are very cute. the cat is little. 
+EN_Type10_00352|the little cat and dog are very cute.|the cat and dog are very cute. the cat and the dog are both little. 
+EN_Type10_00361|the warm tea and bread are good to eat in the morning.|the tea and bread are good to eat in the morning. the tea is warm. 
+EN_Type10_00362|the warm tea and bread are good to eat in the morning.|the tea and bread are good to eat in the morning. the tea and bread are both warm. 
+EN_Type10_00371|the cheap pens and pencils are sold at the school cooperative.|the pens and pencils are sold at the school cooperative. the pens are cheap. 
+EN_Type10_00372|the cheap pens and pencils are sold at the school cooperative.|the pens and pencils are sold at the school cooperative. the pens and pencils are both cheap. 
+EN_Type10_00381|the soft blanket and doll have been around since she was a child.|the blanket and doll have been around since she was a child. the blanket is soft. 
+EN_Type10_00382|the soft blanket and doll have been around since she was a child.|the blanket and doll have been around since she was a child. the blanket and the doll are both soft. 
+EN_Type10_00391|the sweet cakes and bread were sold out.|the cakes and bread were sold out. the cakes are sweet. 
+EN_Type10_00392|the sweet cakes and bread were sold out.|the cakes and bread were sold out. the cakes and bread are both sweet. 
+EN_Type10_00401|the cracked bailer and bucket are blue.|the bailer and bucket are blue. the bailer is cracked. 
+EN_Type10_00402|the cracked bailer and bucket are blue.|the bailer and bucket are blue. the bailer and bucket are both cracked. 
+EN_Type10_00411|brother bought a lot of drink and food.|brother bought drink and food. the drink were a lot. 
+EN_Type10_00412|brother bought a lot of drink and food.|brother bought drink and food. the drink and food were both a lot. 
+EN_Type10_00421|he wants the restaurant's secret recipes and ingredients.|he wants the restaurant's recipes and ingredients. the recipes are secret. 
+EN_Type10_00422|he wants the restaurant's secret recipes and ingredients.|he wants the restaurant's recipes and ingredients. the recipes and ingredients are both secret. 
+EN_Type10_00431|the woman wears a watch and gold from her mother.|the woman wears a watch and gold. the gold is from her mother. 
+EN_Type10_00432|the woman wears a watch and gold from her mother.|the woman wears a watch and gold. the watch and gold are both from her mother. 
+EN_Type10_00441|uncle and aunt from outside the city finally arrived at the village.|uncle and aunt finally arrived at the village. aunt was from outside the city. 
+EN_Type10_00442|uncle and aunt from outside the city finally arrived at the village.|uncle and aunty finally arrived at the village. uncle and aunt were both from outside the city. 
+EN_Type10_00451|dad bought lots of biscuits and chocolate from abroad.|dad bought lots of biscuits and chocolate. the chocolate was from abroad. 
+EN_Type10_00452|dad bought lots of biscuits and chocolate from abroad.|dad bought lots of biscuits and chocolate. the chocolate and biscuits were both from abroad. 
+EN_Type10_00461|in the corner of the room there are plastic shelves and baskets.|in the corner of the room there are shelves and baskets. the shelves are plastic. 
+EN_Type10_00462|in the corner of the room there are plastic shelves and baskets.|in the corner of the room there are shelves and baskets. the shelves and baskets are both plastic. 
+EN_Type10_00471|the remaining thinner and paint are stored in the warehouse.|thinner and paint are stored in the warehouse. the thinner is left over. 
+EN_Type10_00472|the remaining thinner and paint are stored in the warehouse.|thinner and paint are stored in the warehouse. the thinner and paint are both left over. 
+EN_Type10_00481|the dress and shoes which were a gift from mother were worn by sister.|the dress and shoes were worn by sister. the shoes were gifted from mother. 
+EN_Type10_00482|the dress and shoes which were a gift from mother were worn by sister.|the dress and shoes were worn by sister. the dress and shoes were both gifted from mother. 
+EN_Type10_00491|i saw a woman and a daughter in blue.|i saw a woman and a daughter. the daughter was in blue. 
+EN_Type10_00492|i saw a woman and a daughter in blue.|i saw a woman and a daughter. the woman and daughter were both in blue. 
+EN_Type10_00501|the boy's carrying blue-covered printed book and note.|the boy's carrying printed book and note. the printed book is covered in blue. 
+EN_Type10_00502|the boy's carrying blue-covered printed book and note.|the boy's carrying printed book and note. the printed book and note are both covered in blue. 
+EN_Type10_00511|bring me a black jacket and shirt.|bring me a jacket and shirt. the jacket is black. 
+EN_Type10_00512|bring me a black jacket and shirt.|bring me a jacket and shirt. the jacket and the shirt are both black. 
+EN_Type10_00521|the boy carried a red bottle and bag.|the boy carried a bottle and bag. the bottle is red. 
+EN_Type10_00522|the boy carried a red bottle and bag.|the boy carried a bottle and bag. the bottle and bag are both red. 
+EN_Type10_00531|my neighbor has a big yard and house.|my neighbor has a yard and house. the yard is big. 
+EN_Type10_00532|my neighbor has a big yard and house.|my neighbor has a yard and house. the yard and the house are both big. 
+EN_Type10_00541|the team fired its arrogant coaches and players.|the team fired its coaches and players. the coaches were arrogant. 
+EN_Type10_00542|the team fired its arrogant coaches and players.|the team fired its coaches and players. the coaches and the players were arrogant. 
+EN_Type10_00551|grandma asked me to get long thread and needle.|grandma asked me to get thread and needle. the thread should be long. 
+EN_Type10_00552|grandma asked me to get long thread and needle.|grandma asked me to get thread and needle. the thread and needle should both be long. 
+EN_Type10_00561|in the hut lived a beautiful daughter and woman.|in the hut lived a daughter and a woman. the daughter is beautiful. 
+EN_Type10_00562|in the hut lived a beautiful daughter and woman.|in the hut lived a daughter and a woman. the daughter and woman are both beautiful. 
+EN_Type10_00571|in the park there are only broken swings and slides.|in the park there are only swings and slides. the swings are broken. 
+EN_Type10_00572|in the park there are only broken swings and slides.|in the park there are only swings and slides. the swings and slides are both broken. 
+EN_Type10_00581|i eat spicy chicken and eggs.|i eat chicken and eggs. the chicken is spicy. 
+EN_Type10_00582|i eat spicy chicken and eggs.|i eat chicken and eggs. the chicken and eggs are both spicy. 
+EN_Type10_00591|mom bought expensive bags and shoes.|mom bought bags and shoes. the bags are expensive. 
+EN_Type10_00592|mom bought expensive bags and shoes.|mom bought bags and shoes. the bags and shoes are both expensive. 
+EN_Type10_00601|sister brought dirty bowls and dishes.|sister brought bowls and dishes. the bowls are dirty. 
+EN_Type10_00602|sister brought dirty bowls and dishes.|sister brought bowls and dishes. the bowls and dishes are both dirty. 
+EN_Type10_00611|the queen wears a beautiful crown and blue dress.|the queen wears a crown and blue dress. the crown is beautiful. 
+EN_Type10_00612|the queen wears a beautiful crown and blue dress.|the queen wears a crown and blue dress. the crown and the blue dress are both beautiful. 
+EN_Type10_00621|the winner of the competition received a lot of discounts and prize money.|the winner of the competition received discounts and prize money. the discounts were a lot. 
+EN_Type10_00622|the winner of the competition received a lot of discounts and prize money.|the winner of the competition received discounts and prize money. the discounts and the prize money were both a lot. 
+EN_Type10_00631|expensive onions and chilis are sold out.|onions and chilis are sold out. the onions are expensive. 
+EN_Type10_00632|expensive onions and chilis are sold out.|onions and chilis are sold out. the onions and chilis are both expensive. 
+EN_Type10_00641|the skinny dog and cat roamed the road.|the dog and cat roamed the road. the dog is skinny. 
+EN_Type10_00642|the skinny dog and cat roamed the road.|the dog and cat roamed the road. the dog and cat are both skinny. 
+EN_Type10_00651|the slow turtle and chick apparently can beat the rabbit.|the turtle and chick apparently can beat the rabbit. the turtle is slow. 
+EN_Type10_00652|the slow turtle and chick apparently can beat the rabbit.|the turtle and chick apparently can beat the rabbit. the turtle and the chick are both slow. 
+EN_Type10_00661|we got the sour starfruit and oranges from the garden behind the house.|we got the starfruit and oranges from the garden behind the house. the starfruit is sour. 
+EN_Type10_00662|we got the sour starfruit and oranges from the garden behind the house.|we got the starfruit and oranges from the garden behind the house. the starfruit and oranges are both sour. 
+EN_Type10_00671|the fussy grandma and grandpa raise fish.|grandma and grandpa raise fish. the grandma is fussy. 
+EN_Type10_00672|the fussy grandma and grandpa raise fish.|grandma and grandpa raise fish. the grandma and grandpa are both fussy. 
+EN_Type10_00681|the hungry lion and tiger fight over the chicken meat.|the lion and tiger fight over the chicken meat. the lion is hungry. 
+EN_Type10_00682|the hungry lion and tiger fight over the chicken meat.|the lion and tiger fight over the chicken meat. the lion and tiger are both hungry. 
+EN_Type10_00691|i live with my sick mother and father.|i live with my mother and father. my mother is sick. 
+EN_Type10_00692|i live with my sick mother and father.|i live with my mother and father. my mother and father are both sick. 
+EN_Type10_00701|the streets were full of dead rats and flies.|the streets were full of rats and flies. the rats are dead. 
+EN_Type10_00702|the streets were full of dead rats and flies.|the streets were full of rats and flies. the rats and flies are both dead. 
+EN_Type10_00711|in the corner of the room there were broken vases and clocks.|in the corner of the room there were vases and clocks. the vases are broken. 
+EN_Type10_00712|in the corner of the room there were broken vases and clocks.|in the corner of the room there were vase and clock. the vases and clocks are both broken. 
+EN_Type10_00721|in the living room there are angry grandma and grandpa.|in the living room there are grandma and grandpa. the grandma is angry. 
+EN_Type10_00722|in the living room there are angry grandma and grandpa.|in the living room there are grandma and grandpa. the grandma and grandpa are both angry. 
+EN_Type10_00731|lazy brother and sister are called by mother.|brother and sister are called by mother. brother is lazy. 
+EN_Type10_00732|lazy brother and sister are called by mother.|brother and sister are called by mother. brother and sister are both lazy. 
+EN_Type10_00741|the will-be-slaughtered goats and cows are in the field.|the goats and cows are in the field. the goats will be slaughtered. 
+EN_Type10_00742|the will-be-slaughtered goats and cows are in the field.|the goats and cows are in the field. the goats and cows will both be slaughtered. 
+EN_Type10_00751|the weathered windows and doors were replaced.|the windows and doors were replaced. the windows were weathered. 
+EN_Type10_00752|the weathered windows and doors were replaced.|the windows and doors were replaced. the windows and doors were both weathered. 
+EN_Type10_00761|the small pants and clothes were donated to the flood victims.|the pants and clothes were donated to the flood victims. the pants are small. 
+EN_Type10_00762|the small pants and clothes were donated to the flood victims.|the pants and clothes were donated to the flood victims. the pants and clothes were both small. 
+EN_Type10_00771|the stale milk and cheese are very smelly.|the milk and cheese are very smelly. the milk is stale. 
+EN_Type10_00772|the stale milk and cheese are very smelly.|the milk and cheese are very smelly. the milk and the cheese are both stale. 
+EN_Type10_00781|the almost-empty soap and shampoo can still be used.|the soap and shampoo can still be used. the soap is almost empty. 
+EN_Type10_00782|the almost-empty soap and shampoo can still be used.|the soap and shampoo can still be used. the soap and shampoo are both almost empty. 
+EN_Type10_00791|grandpa brought still-alive caterpillars and crickets to fish.|grandpa brought caterpillars and crickets to fish. the caterpillars are still alive. 
+EN_Type10_00792|grandpa brought still-alive caterpillars and crickets to fish.|grandpa brought caterpillars and crickets to fish. the caterpillars and crickets are still alive. 
+EN_Type10_00801|the airport announcement contains a list of delayed arrivals and departures.|the airport announcement contains a list of arrivals and departures. the arrivals are delayed. 
+EN_Type10_00802|the airport announcement contains a list of delayed arrivals and departures.|the airport announcement contains a list of arrivals and departures. the arrivals and departures are both delayed. 
+EN_Type10_00811|she received a set of expensive looking bracelets and earrings.|she received a set of bracelets and earrings. the bracelet looks expensive. 
+EN_Type10_00812|she received a set of expensive looking bracelets and earrings.|she received a set of bracelets and earrings. the bracelet and earrings both look expensive. 
+EN_Type10_00821|he has to work on a final project report and practical work report that must be submitted soon.|he has to work on a final project report and practical work report. the practical work report must be submitted soon. 
+EN_Type10_00822|he has to work on a final project report and practical work report that must be submitted soon.|he has to work on a final project report and practical work report. the final project report and the practical work report both must be submitted soon. 
+EN_Type10_00831|the woman collects sparkling rings and bracelets.|the woman collects rings and bracelets. the rings are sparkling. 
+EN_Type10_00832|the woman collects sparkling rings and bracelets.|the woman collects rings and bracelets. the rings and bracelets are both sparkling. 
+EN_Type10_00841|in the garden there was a girl and her bird who sang melodiously.|in the garden there was a girl and her bird. the bird sang melodiously. 
+EN_Type10_00842|in the garden there was a girl and her bird who sang melodiously.|in the garden there was a girl and her bird. the girl and the bird sang melodiously. 
+EN_Type10_00851|the woman has red curls and long nails.|the woman has curls and long nails. the curls are red. 
+EN_Type10_00852|the woman has red curls and long nails.|the woman has curls and long nails. the curls and the long nails are both red. 
+EN_Type10_00861|the plate and the glass filled with water were carried behind by mother.|the plate and the glass were carried behind by mother. the glass was filled with water. 
+EN_Type10_00862|the plate and the glass filled with water were carried behind by mother.|the plate and the glass were carried behind by mother. the plate and the glass were filled with water. 
+EN_Type10_00871|the tables and chairs made of teak wood are sent from jepara.|the tables and chairs are sent from jepara. the chairs are made of teak wood. 
+EN_Type10_00872|the tables and chairs made of teak wood are sent from jepara.|the tables and chairs are sent from jepara. the tables and chairs are made of teak wood. 
+EN_Type10_00881|the cat and her kitten who peed carelessly were kicked out.|the cat and her kitten were kicked out. the kitten peed carelessly. 
+EN_Type10_00882|the cat and her kitten who peed carelessly were kicked out.|the cat and her kitten were kicked out. the cat and her kitten peed carelessly. 
+EN_Type10_00891|this final task requires an experienced speaker and annotator.|this final task requires a speaker and annotator. the speaker must be experienced. 
+EN_Type10_00892|this final task requires an experienced speaker and annotator.|this final task requires a speaker and annotator. the speaker and annotator must both be experienced. 
+EN_Type10_00901|the old mayor and governor were involved in corruption case.|the mayor and governor were involved in corruption case. the mayor is old. 
+EN_Type10_00902|the old mayor and governor were involved in corruption case.|the mayor and governor were involved in corruption case. the mayor and governor are both old. 
+EN_Type10_00911|mother threw away the magazines and comics that the brother bought.|mother threw away the magazines and comics. the comics were bought by brother. 
+EN_Type10_00912|mother threw away the magazines and comics that the brother bought.|mother threw away the magazines and comics. the magazines and comics were bought by brother. 
+EN_Type10_00921|the floods and earthquakes that hit our village were on television.|the floods and earthquakes were on television. the earthquakes hit our village. 
+EN_Type10_00922|the floods and earthquakes that hit our village were on television.|the floods and earthquakes were on television. the floods and earthquakes hit our village. 
+EN_Type10_00931|dad shot bats and squirrels who ate our fruit.|dad shot bats and squirrels. the squirrels ate our fruit. 
+EN_Type10_00932|dad shot bats and squirrels who ate our fruit.|dad shot bats and squirrels. the bats and squirrels ate our fruit. 
+EN_Type10_00941|the jets and helicopters ordered in the united states have arrived.|the jets and helicopters have arrived. the helicopters were ordered in the united states. 
+EN_Type10_00942|the jets and helicopters ordered in the united states have arrived.|the jets and helicopters have arrived. the jets and helicopters were ordered in the united states. 
+EN_Type10_00951|in the student council room there are already the secretary and treasurer who work.|in the room there is a secretary and a treasurer. the treasurer is working. 
+EN_Type10_00952|in the student council room there are already the secretary and treasurer who work.|in the room there is a secretary and a treasurer. the secretary and the treasurer are working. 
+EN_Type10_00961|here there are soto and satay made from sacrificial meat.|here there are soto and satay. the satay are made from sacrificial meat. 
+EN_Type10_00962|here there are soto and satay made from sacrificial meat.|here there are soto and satay. the soto and satay are both made from sacrificial meat. 
+EN_Type10_00971|cats and dogs who are playing ball are very funny.|the cats and the dogs are entertaining. the dogs are playing ball. 
+EN_Type10_00972|cats and dogs who are playing ball are very funny.|the cats and the dogs are entertaining. the dogs and cats are playing ball. 
+EN_Type10_00981|father brought dried coffee and chocolate to the market.|father brought coffee and chocolate to the market. the coffee is dried. 
+EN_Type10_00982|father brought dried coffee and chocolate to the market.|father brought coffee and chocolate to the market. the coffee and chocolate are dried. 
+EN_Type10_00991|father and the brother who sat on the edge of the rice field laughed at the sister.|father and brother laughed at the sister. brother sat on the edge of the rice field. 
+EN_Type10_00992|father and the brother who sat on the edge of the rice field laughed at the sister.|father and brother laughed at the sister. father and brother sat on the edge of the rice field. 
+EN_Type10_01001|the teacher scolded me and my friend who had not finished working on the assignment.|the teacher scolded me and my friend. my friend had not finished working on the assignment. 
+EN_Type10_01002|the teacher scolded me and my friend who had not finished working on the assignment.|the teacher scolded me and my friend. my friend and i had not finished working on the assignment. 
