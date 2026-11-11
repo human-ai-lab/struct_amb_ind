@@ -81,5 +81,14 @@ This corpus is part of our studies regarding the disambiguation of structurally 
 
 2. If you are using the translation as well, please cite the following paper:
 ```
-coming soon!
+@ARTICLE{11314495,
+  author={Faradishi Widiaputri, Ruhiyah and Purwarianti, Ayu and Sakti, Sakriani},
+  journal={IEEE Access}, 
+  title={Structural Ambiguity Resolution in Indonesian–English Speech-to-Text Translation by Utilizing Prosodic Information}, 
+  year={2026},
+  volume={14},
+  number={},
+  pages={778-791},
+  keywords={Translation;Speech to text;Root mean square;Syntactics;Standards;Machine translation;Feature extraction;Semantics;Hands;Automatic speech recognition;Speech-to-text translation;structural ambiguity;prosody},
+  doi={10.1109/ACCESS.2025.3648059}}
 ```
